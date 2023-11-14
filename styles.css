@@ -1,0 +1,34 @@
+/* styles.css */
+
+body {
+    background-color: #1a1a1a; /* Dark background color */
+    color: white;            /* Lime green text color */
+    font-family: Arial, sans-serif; /* Optional: sets the default font */
+    margin: 0;
+    padding: 0;
+}
+
+/* styles.css */
+
+#flyingImage {
+    position: absolute; /* Position it relative to its nearest positioned ancestor or the viewport */
+    width: 100px;       /* Adjust the size as needed */
+    height: auto;       /* Maintain aspect ratio */
+    z-index: 10;        /* Ensure it's above other elements */
+    /* Initially positioned off-screen or hidden */
+}
+
+h1 {
+    text-align: center; /* Center the text */
+    margin-top: 50px;   /* Add some space at the top */
+}
+
+/* styles.css */
+
+#container h1 span {
+    color: white; /* Initial color */
+    transition: color 0.3s; /* Smooth transition for color change */
+}
+
+/* Other styles remain the same */
+
