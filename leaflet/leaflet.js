@@ -63,7 +63,7 @@ const tiles = L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y
 }).addTo(map);
 
 const limeGreenIcon = L.icon({
-    iconUrl: './pictures/alien.png', // Replace with your lime green marker icon path
+    iconUrl: '../pictures/alien.png', // Replace with your lime green marker icon path
     iconSize: [25, 25], // Replace with your desired icon size
     iconAnchor: [32, 32], // Replace with your desired icon anchor
     popupAnchor: [0, -32] // Replace with your desired popup anchor
