@@ -1,6 +1,6 @@
 // main.js
 
-document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', function () {
     const container = document.querySelector('#container');
     const flyingImage = document.querySelector('#flyingImage');
     const letters = document.querySelectorAll('#container h1 span');
@@ -47,5 +47,4 @@ document.addEventListener('DOMContentLoaded', function() {
 
     setTimeout(animateUFO, 5000);
 });
-
 

@@ -1,0 +1,12 @@
+/* index styles.css */
+@import url("../styles.css");
+
+/* Leaflet styles */
+
+#map {
+    width: 800px;
+    height: 500px;
+    padding: 30px;
+    border-radius: 20px;
+}
+

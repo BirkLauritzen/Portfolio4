@@ -1,4 +1,4 @@
-/* styles.css */
+/* index styles.css */
 
 body {
     background-color: #1a1a1a; /* Dark background color */
@@ -8,7 +8,17 @@ body {
     padding: 0;
 }
 
-/* styles.css */
+#container a {
+    text-decoration: none; /* Removes underline */
+    color: inherit; /* Optional: ensures the link uses the parent's text color */
+}
+
+h1 {
+    text-align: center; /* Center the text */
+    margin-top: 50px;   /* Add some space at the top */
+}
+
+/* Flying ufo styles */
 
 #flyingImage {
     position: absolute; /* Position it relative to its nearest positioned ancestor or the viewport */
@@ -18,17 +28,54 @@ body {
     /* Initially positioned off-screen or hidden */
 }
 
-h1 {
-    text-align: center; /* Center the text */
-    margin-top: 50px;   /* Add some space at the top */
-}
-
-/* styles.css */
-
 #container h1 span {
     color: white; /* Initial color */
     transition: color 0.3s; /* Smooth transition for color change */
 }
 
-/* Other styles remain the same */
+/* Navbar styles */
+.navbar {
+    background-color: #333; /* Darker shade for contrast */
+    overflow: hidden; /* Clear floats */
+    padding: 10px 0; /* Padding around links */
+}
 
+/* Navbar styles */
+.navbar {
+    background-color: #333; /* Darker shade for contrast */
+    overflow: hidden; /* Clear floats */
+    padding: 10px 0; /* Padding around links */
+    display: flex; /* Use flexbox for layout */
+    justify-content: center; /* Center items horizontally */
+    align-items: center; /* Align items vertically */
+}
+
+/* Style for all navbar links */
+.navbar a {
+    display: block; /* Change links to block level for padding */
+    color: white; /* Text color */
+    padding: 14px 20px; /* Spacing around text */
+    text-decoration: none; /* Remove underline */
+    font-size: 17px; /* Increase font size */
+}
+
+/* Add vertical line separator between links */
+.navbar a:not(:last-child) {
+    border-right: 1px solid #00ff00; /* Light colored border for the separator */
+}
+
+/* Change link color on hover */
+.navbar a:hover {
+    background-color: #00ff00; /* Light background on hover */
+    color: black; /* Change text color on hover */
+}
+
+/* Responsive layout for smaller screens */
+@media screen and (max-width: 600px) {
+    .navbar {
+        flex-direction: column; /* Stack links vertically on smaller screens */
+    }
+    .navbar a:not(:last-child) {
+        border-right: none; /* Remove the vertical line on smaller screens */
+    }
+}

@@ -2,9 +2,37 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UFO sightings</title>
+    <!-- Link to external CSS file -->
+    <link rel="stylesheet" href="leaflet.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+          integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+          crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+            integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+            crossorigin=""></script>
 </head>
 <body>
 
+<div id="container">
+    <a href="../index.html">
+        <h1>
+            <span>U</span><span>F</span><span>O</span><span> </span><span>O</span><span>B</span><span>S</span><span>E</span><span>R</span><span>V</span><span>A</span><span>T</span><span>I</span><span>O</span><span>N</span><span>E</span><span>R</span>
+        </h1>
+    </a>
+    <img id="flyingImage" src="../pictures/ufo.png" alt="Flying Image" style="display: none;">
+</div>
+
+<!-- Navigation Bar -->
+<div class="navbar">
+    <a href="leaflet.html">Graf over ufo observationer i Danmark</a>
+    <a href="../chart/chart.html">Graf over hvor mange ufoer der bliver set hvert år</a>
+</div>
+
+<!-- Link to external JavaScript file -->
+<div id="map"></div>
+<script src="../ufo-leaflet.js"></script>
+<script src="leaflet.js"></script>
 </body>
 </html>
