@@ -6,6 +6,7 @@
     <title>UFO sightings</title>
     <!-- Link to external CSS file -->
     <link rel="stylesheet" href="chart.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 
 </head>
 <body>
@@ -25,12 +26,16 @@
     <a href="chart.html">Graf over hvor mange ufoer der bliver set hvert år</a>
 </div>
 
+<div>
+    <canvas id="myChart"></canvas>
+</div>
+
 
 
 <!-- Your HTML content goes here -->
 
 <!-- Link to external JavaScript file -->
 <script src="../ufo-leaflet.js"></script>
-<script src="../main.js"></script>
+<script src="chart.js"></script>
 </body>
 </html>

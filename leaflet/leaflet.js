@@ -55,7 +55,7 @@ console.log(ufoSightings);
 
 const ufoSightingsArray = ufoSightings.sheet1;
 
-const map = L.map("map").setView([56, 11.6], 6);
+const map = L.map("map").setView([56.3, 12], 6.5);
 
 const tiles = L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
     maxZoom: 50,
@@ -79,3 +79,4 @@ ufoSightingsArray.forEach(function (sighting) {
     marker.bindPopup(`<br>Location: ${sighting.location}<br>Witnesses: ${sighting.witnesses}<br>datetime: ${sighting.datetime}`);
 
 });
+
