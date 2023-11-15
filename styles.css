@@ -18,6 +18,15 @@ h1 {
     margin-top: 50px;   /* Add some space at the top */
 }
 
+h2 {
+    margin-top: 50px;   /* Add some space at the top */
+}
+
+.tekst {
+    text-align: left; /* Center the text */
+    margin-left: 30px;
+}
+
 /* Flying ufo styles */
 
 #flyingImage {
