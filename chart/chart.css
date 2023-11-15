@@ -1,4 +1,9 @@
 /* index styles.css */
 @import url("../styles.css");
 
+#container h1 span {
+    color: #00ff00; /* Initial color */
+    transition: color 0.3s; /* Smooth transition for color change */
+}
+
 /* Chart styles */
