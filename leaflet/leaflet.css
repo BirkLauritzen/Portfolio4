@@ -4,9 +4,14 @@
 /* Leaflet styles */
 
 #map {
-    width: 800px;
-    height: 500px;
-    padding: 30px;
-    border-radius: 20px;
+    width: 100vw;              /* Set width to 100% of the viewport width */
+    height: 100vh;             /* Set height to 100% of the viewport height */
+    max-width: 800px;          /* Maximum width limit */
+    max-height: 500px;         /* Maximum height limit */
+    padding: 30px;             /* Padding as specified */
+    border-radius: 20px;       /* Border radius as specified */
+    box-sizing: border-box;    /* Include padding in the width and height calculations */
+    margin: auto;              /* Center the map if it's smaller than the viewport */
 }
+
 
