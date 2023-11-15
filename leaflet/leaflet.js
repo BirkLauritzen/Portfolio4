@@ -16,7 +16,7 @@ const limeGreenIcon = L.icon({
     iconUrl: '../pictures/alien.png', // Replace with your lime green marker icon path
     iconSize: [25, 25], // Replace with your desired icon size
     iconAnchor: [32, 32], // Replace with your desired icon anchor
-    popupAnchor: [0, -32] // Replace with your desired popup anchor
+    popupAnchor: [-19, -30] // Replace with your desired popup anchor
 });
 
 ufoSightingsArray.forEach(function (sighting) {
@@ -27,6 +27,5 @@ ufoSightingsArray.forEach(function (sighting) {
     // Create a marker for each sighting and add it to the map
     const marker = L.marker([lat, lng], { icon: limeGreenIcon }).addTo(map);
     marker.bindPopup(`<br>Location: ${sighting.location}<br>Witnesses: ${sighting.witnesses}<br>datetime: ${sighting.datetime}`);
-
 });
 
