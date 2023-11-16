@@ -1,4 +1,4 @@
-fetch("ufo.json")
+fetch("../observations.json")
     .then(response => response.json())
     .then(data => {
         createChart(data);
