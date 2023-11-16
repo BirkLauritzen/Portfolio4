@@ -1,22 +1,55 @@
-// chart.js
+fetch("ufo.json")
+    .then(response => response.json())
+    .then(data => {
+        createChart(data);
+    })
+    .catch(error => {
+        console.error("Error fetching the JSON data: ", error);
+    });
 
-const ctx = document.getElementById('myChart');
+function createChart(ufoSightings) {
 
-new Chart(ctx, {
-    type: 'line',
-    data: {
-        labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
-        datasets: [{
-            label: 'UFO observationer',
-            data: [65, 59, 80, 81, 56, 55, 40],
-            borderWidth: 1
-        }]
-    },
-    options: {
-        scales: {
-            y: {
-                beginAtZero: true
+    const sightingsPerYear = ufoSightings.reduce((acc, sighting) => {
+        const year = new Date(sighting.datetime).getFullYear();
+        acc[year] = (acc[year] || 0) + 1;
+        return acc;
+    }, {});
+
+
+    const sortedYears = Object.keys(sightingsPerYear).sort((a, b) => a - b);
+    const sightingsCount = sortedYears.map(year => sightingsPerYear[year]);
+
+
+    const ctx = document.querySelector("#chart").getContext("2d");
+
+
+    const chart = new Chart(ctx, {
+        type: "line",
+        data: {
+            labels: sortedYears,
+            datasets: [{
+                label: "Number of UFO Sightings per Year",
+                data: sightingsCount,
+                backgroundColor: "rgba(0, 128, 0, 1)",
+                borderColor: "rgba(0, 128, 0, 1)",
+                borderWidth: 5
+            }]
+        },
+        options: {
+            scales: {
+                x: {
+                    title: {
+                        display: true,
+                        text: "Year"
+                    }
+                },
+                y: {
+                    title: {
+                        display: true,
+                        text: "Number of Sightings"
+                    },
+                }
             }
         }
-    }
-});
+    });
+}
