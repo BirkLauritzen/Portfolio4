@@ -1,1265 +1,5 @@
 [
   {
-    "location": "Amager Fælled2300 København S",
-    "datetime": "1948-04-02 23:55:00.000000",
-    "witnesses": null,
-    "latitude": 55.65884,
-    "longitude": 12.607784
-  },
-  {
-    "location": "9990 Skagen",
-    "datetime": "1952-01-01 20:00:00.000000",
-    "witnesses": 2,
-    "latitude": 57.72597,
-    "longitude": 10.58446
-  },
-  {
-    "location": "Ravsted6372 Bylderup-Bov",
-    "datetime": "1954-01-07 21:00:00.000000",
-    "witnesses": 1,
-    "latitude": 54.944782,
-    "longitude": 9.101704
-  },
-  {
-    "location": "Ravsted6372 Bylderup-Bov",
-    "datetime": "1954-01-07 21:00:00.000000",
-    "witnesses": 1,
-    "latitude": 54.944782,
-    "longitude": 9.101704
-  },
-  {
-    "location": "6630 Rødding",
-    "datetime": "1954-08-01 20:00:00.000000",
-    "witnesses": null,
-    "latitude": 55.368058,
-    "longitude": 9.058147
-  },
-  {
-    "location": "7600 Struer",
-    "datetime": "1955-01-01 23:00:00.000000",
-    "witnesses": 3,
-    "latitude": 56.486677,
-    "longitude": 8.595143
-  },
-  {
-    "location": "Ledøje, 2765 Smørum",
-    "datetime": "1956-02-13 22:45:00.000000",
-    "witnesses": 1,
-    "latitude": 55.741341,
-    "longitude": 12.303027
-  },
-  {
-    "location": "5300 Kerteminde",
-    "datetime": "1956-08-01 20:00:00.000000",
-    "witnesses": 3,
-    "latitude": 55.453277,
-    "longitude": 10.654778
-  },
-  {
-    "location": "7100 Vejle",
-    "datetime": "1957-01-01 18:00:00.000000",
-    "witnesses": null,
-    "latitude": 55.700006,
-    "longitude": 9.533324
-  },
-  {
-    "location": "9600 Års",
-    "datetime": "1957-05-17 01:35:00.000000",
-    "witnesses": 9,
-    "latitude": 56.803378,
-    "longitude": 9.516899
-  },
-  {
-    "location": "6541 Bevtoft",
-    "datetime": "1958-01-17 17:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.197143,
-    "longitude": 9.202903
-  },
-  {
-    "location": "4733 Tappernøje",
-    "datetime": "1959-01-08 14:45:00.000000",
-    "witnesses": 1,
-    "latitude": 55.164829,
-    "longitude": 11.979307
-  },
-  {
-    "location": "Skærup, 7100 Vejle",
-    "datetime": "1959-06-13 16:00:00.000000",
-    "witnesses": 3,
-    "latitude": 55.700006,
-    "longitude": 9.533324
-  },
-  {
-    "location": "Skærup, 7100 Vejle",
-    "datetime": "1959-06-13 16:00:00.000000",
-    "witnesses": 3,
-    "latitude": 55.700006,
-    "longitude": 9.533324
-  },
-  {
-    "location": "Hallundbæk, 7490 Aulum",
-    "datetime": "1960-01-01 07:00:00.000000",
-    "witnesses": null,
-    "latitude": 56.264905,
-    "longitude": 8.786981
-  },
-  {
-    "location": "1448 København K",
-    "datetime": "1960-01-01 11:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.62351475,
-    "longitude": 12.65206475
-  },
-  {
-    "location": "2870 Nærum",
-    "datetime": "1960-07-01 16:00:00.000000",
-    "witnesses": 100,
-    "latitude": 55.6938798,
-    "longitude": 12.5394701
-  },
-  {
-    "location": "7950 Erslev",
-    "datetime": "1960-08-01 21:00:00.000000",
-    "witnesses": 3,
-    "latitude": 56.830027,
-    "longitude": 8.750908
-  },
-  {
-    "location": "7080 Børkop",
-    "datetime": "1960-11-01 05:45:00.000000",
-    "witnesses": 1,
-    "latitude": 55.640964,
-    "longitude": 9.64921
-  },
-  {
-    "location": "8381 Tilst",
-    "datetime": "1962-01-08 20:00:00.000000",
-    "witnesses": 1,
-    "latitude": 56.192115,
-    "longitude": 10.111739
-  },
-  {
-    "location": "Stenderup6640 Rødding",
-    "datetime": "1962-09-01 18:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.3695975,
-    "longitude": 9.052646
-  },
-  {
-    "location": "9690 Fjerritslev",
-    "datetime": "1964-12-31 00:00:00.000000",
-    "witnesses": 1,
-    "latitude": 57.088801,
-    "longitude": 9.273105
-  },
-  {
-    "location": "3460 Birkerød",
-    "datetime": "1965-05-01 08:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.840337,
-    "longitude": 12.42878
-  },
-  {
-    "location": "4220 Korsør",
-    "datetime": "1966-01-08 21:00:00.000000",
-    "witnesses": 2,
-    "latitude": 55.341528,
-    "longitude": 11.136725
-  },
-  {
-    "location": "3770 Allinge-Sandvig",
-    "datetime": "1966-03-27 13:00:00.000000",
-    "witnesses": 2,
-    "latitude": 55.288847,
-    "longitude": 14.774855
-  },
-  {
-    "location": "8600 Silkeborg",
-    "datetime": "1966-08-15 20:00:00.000000",
-    "witnesses": null,
-    "latitude": 56.169453,
-    "longitude": 9.549514
-  },
-  {
-    "location": "3700 Rønne",
-    "datetime": "1967-01-06 23:00:00.000000",
-    "witnesses": 50,
-    "latitude": 55.099451,
-    "longitude": 14.706091
-  },
-  {
-    "location": "4872 Idestrup",
-    "datetime": "1967-01-07 18:00:00.000000",
-    "witnesses": 3,
-    "latitude": 54.721145,
-    "longitude": 11.978346
-  },
-  {
-    "location": "Taulov7100 Fredericia",
-    "datetime": "1967-01-10 23:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.564903,
-    "longitude": 9.743713
-  },
-  {
-    "location": "1610 København V",
-    "datetime": "1967-03-01 22:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.673966,
-    "longitude": 12.556932
-  },
-  {
-    "location": "6300 Gråsten",
-    "datetime": "1968-01-01 18:00:00.000000",
-    "witnesses": 2,
-    "latitude": 54.914018,
-    "longitude": 9.58663
-  },
-  {
-    "location": "9800 Hjørring",
-    "datetime": "1968-01-07 16:30:00.000000",
-    "witnesses": 2,
-    "latitude": 57.457183,
-    "longitude": 9.9856
-  },
-  {
-    "location": "Ventspils, Letland",
-    "datetime": "1968-10-14 21:30:00.000000",
-    "witnesses": 1,
-    "latitude": 55.6673741,
-    "longitude": 12.55257985
-  },
-  {
-    "location": "6510 Gram",
-    "datetime": "1968-10-16 17:00:00.000000",
-    "witnesses": 5,
-    "latitude": 55.286992,
-    "longitude": 9.046329
-  },
-  {
-    "location": "2400 Københanv NV",
-    "datetime": "1969-01-01 00:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.708916,
-    "longitude": 12.530014
-  },
-  {
-    "location": "2500 Valby",
-    "datetime": "1970-01-01 22:15:00.000000",
-    "witnesses": 1,
-    "latitude": 55.661802,
-    "longitude": 12.516952
-  },
-  {
-    "location": "2600 Glostrup",
-    "datetime": "1970-01-04 15:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.669248,
-    "longitude": 12.395952
-  },
-  {
-    "location": "5000 Odense",
-    "datetime": "1970-01-07 12:00:00.000000",
-    "witnesses": 2,
-    "latitude": 55.396429,
-    "longitude": 10.39331
-  },
-  {
-    "location": "Fjellebroen5600 Fåborg",
-    "datetime": "1970-07-01 13:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.11305,
-    "longitude": 10.241658
-  },
-  {
-    "location": "Hareskovby3600 Frederikssund",
-    "datetime": "1971-01-01 00:00:00.000000",
-    "witnesses": 4,
-    "latitude": 55.841775,
-    "longitude": 12.063595
-  },
-  {
-    "location": "2600 Rødovre",
-    "datetime": "1971-09-01 14:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.669248,
-    "longitude": 12.395952
-  },
-  {
-    "location": "Armensk by Leninakan",
-    "datetime": "1971-10-10 18:00:00.000000",
-    "witnesses": 10,
-    "latitude": 57.2871976624847,
-    "longitude": 12.2187536936356
-  },
-  {
-    "location": "7700 Agger",
-    "datetime": "1972-01-01 21:00:00.000000",
-    "witnesses": 2,
-    "latitude": 56.999538,
-    "longitude": 9.2938275
-  },
-  {
-    "location": "Stenstrup,4573 Højby",
-    "datetime": "1973-01-01 20:00:00.000000",
-    "witnesses": 2,
-    "latitude": 55.910371,
-    "longitude": 11.597003
-  },
-  {
-    "location": "8220 Brabrand",
-    "datetime": "1973-01-06 22:00:00.000000",
-    "witnesses": 20,
-    "latitude": 56.153211,
-    "longitude": 10.102417
-  },
-  {
-    "location": "9210 Aalborg SØ",
-    "datetime": "1973-01-09 20:00:00.000000",
-    "witnesses": 1,
-    "latitude": 56.9926822,
-    "longitude": 9.92927485
-  },
-  {
-    "location": "2970 Hørsholm",
-    "datetime": "1973-06-17 17:35:00.000000",
-    "witnesses": 2,
-    "latitude": 55.883299,
-    "longitude": 12.500011
-  },
-  {
-    "location": "8471 Sabro",
-    "datetime": "1973-06-30 15:00:00.000000",
-    "witnesses": 3,
-    "latitude": 56.211649,
-    "longitude": 10.033979
-  },
-  {
-    "location": "rasteplads gribskovvej",
-    "datetime": "1973-08-01 18:00:00.000000",
-    "witnesses": 10,
-    "latitude": 55.349788,
-    "longitude": 10.598155
-  },
-  {
-    "location": "3600 Frederikssund",
-    "datetime": "1973-12-22 01:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.841775,
-    "longitude": 12.063595
-  },
-  {
-    "location": "5540 Ullerslev",
-    "datetime": "1974-01-01 15:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.361527,
-    "longitude": 10.663047
-  },
-  {
-    "location": "Nr. Søby5792 Årslev",
-    "datetime": "1974-01-01 15:00:00.000000",
-    "witnesses": null,
-    "latitude": 56.135749,
-    "longitude": 10.056734
-  },
-  {
-    "location": "4771 Kalvehave",
-    "datetime": "1974-01-03 19:30:00.000000",
-    "witnesses": 1,
-    "latitude": 55.002206,
-    "longitude": 12.147351
-  },
-  {
-    "location": "7600 Struer",
-    "datetime": "1974-02-02 19:00:00.000000",
-    "witnesses": 1,
-    "latitude": 56.486677,
-    "longitude": 8.595143
-  },
-  {
-    "location": "Uvelse mod Slangerup3330 Gørløse",
-    "datetime": "1974-03-10 00:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.8867505,
-    "longitude": 12.2024295
-  },
-  {
-    "location": "Spanien",
-    "datetime": "1974-06-15 22:00:00.000000",
-    "witnesses": 7,
-    "latitude": 55.6606788,
-    "longitude": 12.60887715
-  },
-  {
-    "location": "6200 Odense",
-    "datetime": "1975-01-01 19:00:00.000000",
-    "witnesses": 2,
-    "latitude": 55.4752895,
-    "longitude": 10.330114
-  },
-  {
-    "location": "8620 mellem Thorning og Kjellerup",
-    "datetime": "1975-01-01 20:00:00.000000",
-    "witnesses": 1,
-    "latitude": 56.283493,
-    "longitude": 9.440013
-  },
-  {
-    "location": "8620 Kjellerup",
-    "datetime": "1975-01-01 22:00:00.000000",
-    "witnesses": 1,
-    "latitude": 56.283493,
-    "longitude": 9.440013
-  },
-  {
-    "location": "2820 Gentofte",
-    "datetime": "1975-01-08 22:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.745966,
-    "longitude": 12.551025
-  },
-  {
-    "location": "2970-2990 Isterødvejen Hørsholm-Hillerød",
-    "datetime": "1975-02-15 23:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.9490778,
-    "longitude": 12.32934285
-  },
-  {
-    "location": "4872 Idestrup",
-    "datetime": "1975-07-01 21:00:00.000000",
-    "witnesses": 1,
-    "latitude": 54.721145,
-    "longitude": 11.978346
-  },
-  {
-    "location": "Nymølle, Nordsjælland",
-    "datetime": "1975-12-12 22:00:00.000000",
-    "witnesses": 5,
-    "latitude": 55.931632,
-    "longitude": 12.327022
-  },
-  {
-    "location": "Nymølle, 3520 Farum",
-    "datetime": "1975-12-22 23:00:00.000000",
-    "witnesses": 5,
-    "latitude": 55.810123,
-    "longitude": 12.37025
-  },
-  {
-    "location": "6091 Bjert",
-    "datetime": "1976-01-01 07:30:00.000000",
-    "witnesses": 2,
-    "latitude": 55.459248,
-    "longitude": 9.554286
-  },
-  {
-    "location": "Spodsbjerg5900 Rudkøbing",
-    "datetime": "1976-01-01 15:00:00.000000",
-    "witnesses": 7,
-    "latitude": 54.93775,
-    "longitude": 10.716757
-  },
-  {
-    "location": "2300 København S",
-    "datetime": "1976-01-01 22:00:00.000000",
-    "witnesses": 2,
-    "latitude": 55.660154,
-    "longitude": 12.601269
-  },
-  {
-    "location": "4720 Præstø",
-    "datetime": "1976-01-09 20:15:00.000000",
-    "witnesses": 1,
-    "latitude": 55.117894,
-    "longitude": 12.053837
-  },
-  {
-    "location": "9670 Løgstør",
-    "datetime": "1976-02-01 08:30:00.000000",
-    "witnesses": 1,
-    "latitude": 56.962525,
-    "longitude": 9.261959
-  },
-  {
-    "location": "5610 Assens",
-    "datetime": "1976-05-18 01:50:00.000000",
-    "witnesses": 2,
-    "latitude": 55.265798,
-    "longitude": 9.900217
-  },
-  {
-    "location": "4300 Holbæk",
-    "datetime": "1976-06-01 23:00:00.000000",
-    "witnesses": null,
-    "latitude": 55.718612,
-    "longitude": 11.713547
-  },
-  {
-    "location": "5540 Ullerslev",
-    "datetime": "1976-07-07 16:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.361527,
-    "longitude": 10.663047
-  },
-  {
-    "location": "8220 Brabrand",
-    "datetime": "1977-01-06 22:00:00.000000",
-    "witnesses": 1,
-    "latitude": 56.153211,
-    "longitude": 10.102417
-  },
-  {
-    "location": "6534 Agerskov",
-    "datetime": "1977-01-09 21:45:00.000000",
-    "witnesses": 1,
-    "latitude": 55.13221,
-    "longitude": 9.125957
-  },
-  {
-    "location": "4682 Tureby",
-    "datetime": "1978-01-01 00:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.380658,
-    "longitude": 12.081162
-  },
-  {
-    "location": "6000 Kolding",
-    "datetime": "1978-01-01 00:00:00.000000",
-    "witnesses": 4,
-    "latitude": 55.4895,
-    "longitude": 9.47905
-  },
-  {
-    "location": "Åstrup, 8250 Egå",
-    "datetime": "1978-01-06 17:00:00.000000",
-    "witnesses": 7,
-    "latitude": 56.21535,
-    "longitude": 10.266729
-  },
-  {
-    "location": "9550 Mariager",
-    "datetime": "1978-01-08 21:00:00.000000",
-    "witnesses": null,
-    "latitude": 56.659167,
-    "longitude": 10.008369
-  },
-  {
-    "location": "Udbyhøj8950 Ørsted",
-    "datetime": "1978-03-11 19:15:00.000000",
-    "witnesses": 5,
-    "latitude": 55.681217,
-    "longitude": 12.564578
-  },
-  {
-    "location": "2635 Ishøj",
-    "datetime": "1978-10-01 12:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.609447,
-    "longitude": 12.358255
-  },
-  {
-    "location": "4200 Slagelse",
-    "datetime": "1979-01-01 09:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.40612,
-    "longitude": 11.352541
-  },
-  {
-    "location": "2920 Skovshoved",
-    "datetime": "1979-01-01 18:00:00.000000",
-    "witnesses": null,
-    "latitude": 55.758923,
-    "longitude": 12.596864
-  },
-  {
-    "location": "4100 Ringsted",
-    "datetime": "1979-01-01 19:30:00.000000",
-    "witnesses": 1,
-    "latitude": 55.446817,
-    "longitude": 11.797522
-  },
-  {
-    "location": "Rytterknægten,Bornholm",
-    "datetime": "1979-01-01 19:45:00.000000",
-    "witnesses": 9,
-    "latitude": 55.066284,
-    "longitude": 14.7546715
-  },
-  {
-    "location": "4581 Rørvig",
-    "datetime": "1979-01-01 21:00:00.000000",
-    "witnesses": null,
-    "latitude": 55.946798,
-    "longitude": 11.744639
-  },
-  {
-    "location": "Vangede,2820 Gentofte",
-    "datetime": "1979-01-01 21:00:00.000000",
-    "witnesses": 2,
-    "latitude": 55.745966,
-    "longitude": 12.551025
-  },
-  {
-    "location": "5540 Ullerslev",
-    "datetime": "1979-01-01 23:30:00.000000",
-    "witnesses": 2,
-    "latitude": 55.361527,
-    "longitude": 10.663047
-  },
-  {
-    "location": "6933 Kibæk",
-    "datetime": "1979-01-02 17:00:00.000000",
-    "witnesses": 2,
-    "latitude": 56.034957,
-    "longitude": 8.858399
-  },
-  {
-    "location": "8305 Samsø",
-    "datetime": "1979-01-09 22:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.830586,
-    "longitude": 10.592765
-  },
-  {
-    "location": "4671 Strøby Egede",
-    "datetime": "1979-01-11 20:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.383344,
-    "longitude": 12.282865
-  },
-  {
-    "location": "2650 Hvidovre",
-    "datetime": "1979-04-18 23:41:00.000000",
-    "witnesses": 2,
-    "latitude": 55.644171,
-    "longitude": 12.477209
-  },
-  {
-    "location": "Hågerup5600 Fåborg",
-    "datetime": "1979-06-01 18:00:00.000000",
-    "witnesses": 3,
-    "latitude": 55.11305,
-    "longitude": 10.241658
-  },
-  {
-    "location": "7600 Struer",
-    "datetime": "1979-07-15 19:45:00.000000",
-    "witnesses": null,
-    "latitude": 56.486677,
-    "longitude": 8.595143
-  },
-  {
-    "location": "6500 Vojens",
-    "datetime": "1980-01-01 19:00:00.000000",
-    "witnesses": 3,
-    "latitude": 55.24731,
-    "longitude": 9.30377
-  },
-  {
-    "location": "Gladsaxe,2860 Søborg",
-    "datetime": "1980-01-07 01:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.735604,
-    "longitude": 12.472486
-  },
-  {
-    "location": "4100 Ringsted",
-    "datetime": "1980-01-08 21:30:00.000000",
-    "witnesses": 3,
-    "latitude": 55.446817,
-    "longitude": 11.797522
-  },
-  {
-    "location": "4330 Hvalsø",
-    "datetime": "1980-01-12 01:45:00.000000",
-    "witnesses": 2,
-    "latitude": 55.593909,
-    "longitude": 11.860166
-  },
-  {
-    "location": "Canada",
-    "datetime": "1980-02-09 23:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.753493,
-    "longitude": 12.542443
-  },
-  {
-    "location": "Drøsselbjerg,4200 Slagelse",
-    "datetime": "1980-03-14 20:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.40612,
-    "longitude": 11.352541
-  },
-  {
-    "location": "9850 Hirtshals",
-    "datetime": "1980-06-06 12:00:00.000000",
-    "witnesses": 2,
-    "latitude": 57.590803,
-    "longitude": 9.964974
-  },
-  {
-    "location": "5600 Fåborg",
-    "datetime": "1980-06-10 06:30:00.000000",
-    "witnesses": 1,
-    "latitude": 55.11305,
-    "longitude": 10.241658
-  },
-  {
-    "location": "4300 Holbæk",
-    "datetime": "1980-08-01 21:00:00.000000",
-    "witnesses": null,
-    "latitude": 55.718612,
-    "longitude": 11.713547
-  },
-  {
-    "location": "4171 Glumsø",
-    "datetime": "1980-08-31 20:00:00.000000",
-    "witnesses": 3,
-    "latitude": 55.355173,
-    "longitude": 11.687668
-  },
-  {
-    "location": "7755 Bedsted Thy",
-    "datetime": "1980-10-18 18:10:00.000000",
-    "witnesses": 1,
-    "latitude": 56.807942,
-    "longitude": 8.406355
-  },
-  {
-    "location": "4600 Køge",
-    "datetime": "1981-01-06 15:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.456501,
-    "longitude": 12.181896
-  },
-  {
-    "location": "Rold Skov",
-    "datetime": "1981-01-10 15:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.8199872,
-    "longitude": 9.8920706
-  },
-  {
-    "location": "Tingbjerg2700 Brønshøj",
-    "datetime": "1981-10-01 23:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.704111,
-    "longitude": 12.498549
-  },
-  {
-    "location": "2730 Herlev",
-    "datetime": "1981-10-10 02:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.724817,
-    "longitude": 12.437722
-  },
-  {
-    "location": "6857 Blåvand",
-    "datetime": "1982-01-01 02:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.554032,
-    "longitude": 8.137296
-  },
-  {
-    "location": "4600 Køge",
-    "datetime": "1982-01-01 05:30:00.000000",
-    "witnesses": 3,
-    "latitude": 55.456501,
-    "longitude": 12.181896
-  },
-  {
-    "location": "8210 Århus V",
-    "datetime": "1982-01-01 20:00:00.000000",
-    "witnesses": 3,
-    "latitude": 56.16496085,
-    "longitude": 10.17732815
-  },
-  {
-    "location": "9500 Hobro",
-    "datetime": "1982-01-01 20:00:00.000000",
-    "witnesses": 3,
-    "latitude": 56.637175,
-    "longitude": 9.79398
-  },
-  {
-    "location": "4500 Nykøbing Sjælland",
-    "datetime": "1982-01-01 22:00:00.000000",
-    "witnesses": 4,
-    "latitude": 55.934258,
-    "longitude": 11.657676
-  },
-  {
-    "location": "6100 Haderslev",
-    "datetime": "1982-01-01 22:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.250072,
-    "longitude": 9.499787
-  },
-  {
-    "location": "2605 Brøndby",
-    "datetime": "1982-01-07 02:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.644111,
-    "longitude": 12.421713
-  },
-  {
-    "location": "3140 Ålsgårde",
-    "datetime": "1982-01-23 23:00:00.000000",
-    "witnesses": 3,
-    "latitude": 56.076526,
-    "longitude": 12.534001
-  },
-  {
-    "location": "6760 Ribe",
-    "datetime": "1982-02-25 00:00:00.000000",
-    "witnesses": null,
-    "latitude": 55.328404,
-    "longitude": 8.764784
-  },
-  {
-    "location": "Bovrup, 6200 Aabenraa",
-    "datetime": "1982-04-01 15:00:00.000000",
-    "witnesses": 2,
-    "latitude": 55.044623,
-    "longitude": 9.420967
-  },
-  {
-    "location": "3140 Ålsgårde",
-    "datetime": "1982-07-17 23:10:00.000000",
-    "witnesses": 1,
-    "latitude": 56.076526,
-    "longitude": 12.534001
-  },
-  {
-    "location": "9700 Brønderslev",
-    "datetime": "1983-01-01 12:00:00.000000",
-    "witnesses": 3,
-    "latitude": 57.270013,
-    "longitude": 9.944863
-  },
-  {
-    "location": "2300 København S",
-    "datetime": "1983-01-01 15:00:00.000000",
-    "witnesses": 2,
-    "latitude": 55.660154,
-    "longitude": 12.601269
-  },
-  {
-    "location": "5220 Odense SØ",
-    "datetime": "1983-01-05 14:30:00.000000",
-    "witnesses": 2,
-    "latitude": 55.378919,
-    "longitude": 10.445041
-  },
-  {
-    "location": "4690 Haslev",
-    "datetime": "1983-01-09 23:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.327112,
-    "longitude": 11.95673
-  },
-  {
-    "location": "Swinoujcie, Polen",
-    "datetime": "1983-07-27 21:45:00.000000",
-    "witnesses": 100,
-    "latitude": 55.6644629,
-    "longitude": 12.61535115
-  },
-  {
-    "location": "8732 Hovedgård",
-    "datetime": "1983-10-13 22:30:00.000000",
-    "witnesses": 1,
-    "latitude": 55.945382,
-    "longitude": 9.956506
-  },
-  {
-    "location": "5620 Glamsbjerg",
-    "datetime": "1983-10-23 23:30:00.000000",
-    "witnesses": 1,
-    "latitude": 55.278326,
-    "longitude": 10.108743
-  },
-  {
-    "location": "2800 Lyngby",
-    "datetime": "1983-11-13 06:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.783219,
-    "longitude": 12.501227
-  },
-  {
-    "location": "Havehusene2670 Greve",
-    "datetime": "1984-01-01 18:00:00.000000",
-    "witnesses": 4,
-    "latitude": 55.591657,
-    "longitude": 12.305275
-  },
-  {
-    "location": "Lørring, 7400 Herning",
-    "datetime": "1984-01-01 19:00:00.000000",
-    "witnesses": 1,
-    "latitude": 56.137976,
-    "longitude": 8.974662
-  },
-  {
-    "location": "2200 København N",
-    "datetime": "1984-01-01 23:30:00.000000",
-    "witnesses": 2,
-    "latitude": 55.716467,
-    "longitude": 12.606601
-  },
-  {
-    "location": "Stockton, Alabama",
-    "datetime": "1984-07-12 18:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.687839,
-    "longitude": 12.563158
-  },
-  {
-    "location": "2750 Ballerup",
-    "datetime": "1984-07-24 21:00:00.000000",
-    "witnesses": 2,
-    "latitude": 55.730359,
-    "longitude": 12.361231
-  },
-  {
-    "location": "2750 Ballerup",
-    "datetime": "1984-07-24 21:00:00.000000",
-    "witnesses": 2,
-    "latitude": 55.730359,
-    "longitude": 12.361231
-  },
-  {
-    "location": "4400 Kalundborg",
-    "datetime": "1984-11-01 01:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.683379,
-    "longitude": 11.099362
-  },
-  {
-    "location": "Snesere4733 Tappernøje",
-    "datetime": "1985-01-01 18:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.164829,
-    "longitude": 11.979307
-  },
-  {
-    "location": "3060 Espergærde",
-    "datetime": "1985-01-01 20:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.990778,
-    "longitude": 12.552963
-  },
-  {
-    "location": "Havehusene2670 Greve",
-    "datetime": "1985-01-01 20:00:00.000000",
-    "witnesses": null,
-    "latitude": 55.591657,
-    "longitude": 12.305275
-  },
-  {
-    "location": "Gardeleiren0767 Oslo, Norge",
-    "datetime": "1985-01-01 21:00:00.000000",
-    "witnesses": 2,
-    "latitude": 55.09966915,
-    "longitude": 14.68802585
-  },
-  {
-    "location": "5250 Odense SV",
-    "datetime": "1985-01-01 22:30:00.000000",
-    "witnesses": 1,
-    "latitude": 55.3750512,
-    "longitude": 10.3536969
-  },
-  {
-    "location": "4840 Nr. Aslev",
-    "datetime": "1985-02-02 04:00:00.000000",
-    "witnesses": 1,
-    "latitude": 54.898608,
-    "longitude": 11.877184
-  },
-  {
-    "location": "Anholt",
-    "datetime": "1985-07-15 23:00:00.000000",
-    "witnesses": null,
-    "latitude": 56.705716,
-    "longitude": 11.545922
-  },
-  {
-    "location": "5580 Nørre Åby",
-    "datetime": "1985-08-08 22:00:00.000000",
-    "witnesses": 2,
-    "latitude": 55.460018000000005,
-    "longitude": 9.8708115
-  },
-  {
-    "location": "Gardeleiren0767 Oslo, Norge",
-    "datetime": "1985-12-31 21:00:00.000000",
-    "witnesses": 2,
-    "latitude": 55.09966915,
-    "longitude": 14.68802585
-  },
-  {
-    "location": "2500 Valby",
-    "datetime": "1986-01-01 00:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.661802,
-    "longitude": 12.516952
-  },
-  {
-    "location": "4200 Slagelse",
-    "datetime": "1986-01-01 15:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.40612,
-    "longitude": 11.352541
-  },
-  {
-    "location": "ml. 8870 Langå og 8900 Randers",
-    "datetime": "1986-01-02 22:00:00.000000",
-    "witnesses": 2,
-    "latitude": 56.4280519,
-    "longitude": 9.922721
-  },
-  {
-    "location": "4220 Korsør",
-    "datetime": "1986-01-03 15:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.341528,
-    "longitude": 11.136725
-  },
-  {
-    "location": "7323 Give",
-    "datetime": "1986-06-01 15:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.845552,
-    "longitude": 9.240154
-  },
-  {
-    "location": "2700 Brønshøj",
-    "datetime": "1986-07-06 22:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.704111,
-    "longitude": 12.498549
-  },
-  {
-    "location": "8400 Ebeltoft",
-    "datetime": "1986-08-24 00:00:00.000000",
-    "witnesses": 2,
-    "latitude": 56.200942,
-    "longitude": 10.679837
-  },
-  {
-    "location": "Røgind Kro, 6950 Ringkøbing",
-    "datetime": "1986-12-11 00:00:00.000000",
-    "witnesses": 1,
-    "latitude": 56.090357,
-    "longitude": 8.254274
-  },
-  {
-    "location": "5210 Odense NV",
-    "datetime": "1987-01-01 19:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.412684,
-    "longitude": 10.324331
-  },
-  {
-    "location": "2200 København",
-    "datetime": "1987-01-01 22:00:00.000000",
-    "witnesses": 3,
-    "latitude": 55.697689,
-    "longitude": 12.546363
-  },
-  {
-    "location": "4000 Vordingborg",
-    "datetime": "1987-08-01 00:00:00.000000",
-    "witnesses": 2,
-    "latitude": 55.005563,
-    "longitude": 11.907797
-  },
-  {
-    "location": "2700 Brønshøj",
-    "datetime": "1987-08-10 21:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.704111,
-    "longitude": 12.498549
-  },
-  {
-    "location": "9430 Vadum",
-    "datetime": "1988-01-01 01:00:00.000000",
-    "witnesses": 1,
-    "latitude": 57.115596,
-    "longitude": 9.85896
-  },
-  {
-    "location": "6933 Kibæk",
-    "datetime": "1988-01-01 15:00:00.000000",
-    "witnesses": 2,
-    "latitude": 56.034957,
-    "longitude": 8.858399
-  },
-  {
-    "location": "4720 Præstø",
-    "datetime": "1988-08-22 22:15:00.000000",
-    "witnesses": null,
-    "latitude": 55.117894,
-    "longitude": 12.053837
-  },
-  {
-    "location": "Midtjylland",
-    "datetime": "1988-09-29 20:00:00.000000",
-    "witnesses": 4,
-    "latitude": 56.4469128,
-    "longitude": 9.4059354
-  },
-  {
-    "location": "8600 Silkeborg",
-    "datetime": "1988-11-30 21:00:00.000000",
-    "witnesses": 3,
-    "latitude": 56.169453,
-    "longitude": 9.549514
-  },
-  {
-    "location": "8200 Århus N",
-    "datetime": "1989-01-01 20:30:00.000000",
-    "witnesses": 3,
-    "latitude": 56.16001,
-    "longitude": 10.221435
-  },
-  {
-    "location": "2635 Ishøj",
-    "datetime": "1989-01-01 20:30:00.000000",
-    "witnesses": 1,
-    "latitude": 55.609447,
-    "longitude": 12.358255
-  },
-  {
-    "location": "London SW 1",
-    "datetime": "1989-01-07 15:00:00.000000",
-    "witnesses": 2,
-    "latitude": 56.887253,
-    "longitude": 12.567591
-  },
-  {
-    "location": "8200 Århus N",
-    "datetime": "1989-02-01 20:30:00.000000",
-    "witnesses": 3,
-    "latitude": 56.16001,
-    "longitude": 10.221435
-  },
-  {
-    "location": "2980 Nivå",
-    "datetime": "1989-04-17 16:30:00.000000",
-    "witnesses": 2,
-    "latitude": 55.923313,
-    "longitude": 12.474396
-  },
-  {
-    "location": "2980 Nivå",
-    "datetime": "1989-04-27 00:00:00.000000",
-    "witnesses": null,
-    "latitude": 55.923313,
-    "longitude": 12.474396
-  },
-  {
-    "location": "2200 København N",
-    "datetime": "1989-07-25 00:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.716467,
-    "longitude": 12.606601
-  },
-  {
-    "location": "3050 Humlebæk",
-    "datetime": "1989-07-25 04:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.961879,
-    "longitude": 12.530546
-  },
-  {
-    "location": "7260 Sdr. Omme",
-    "datetime": "1989-10-10 20:30:00.000000",
-    "witnesses": 3,
-    "latitude": 55.838044,
-    "longitude": 8.89502
-  },
-  {
-    "location": "2990 Nivå",
-    "datetime": "1989-10-10 23:30:00.000000",
-    "witnesses": 1,
-    "latitude": 55.935056,
-    "longitude": 12.501353
-  },
-  {
-    "location": "4200 Slagelse",
-    "datetime": "1990-01-01 18:00:00.000000",
-    "witnesses": 2,
-    "latitude": 55.40612,
-    "longitude": 11.352541
-  },
-  {
-    "location": "Dall Villaby9230 Svenstrup",
-    "datetime": "1990-01-01 20:00:00.000000",
-    "witnesses": null,
-    "latitude": 55.3638385,
-    "longitude": 11.1713525
-  },
-  {
-    "location": "København V",
-    "datetime": "1990-01-01 20:00:00.000000",
-    "witnesses": 3,
-    "latitude": 55.675173,
-    "longitude": 12.538975
-  },
-  {
-    "location": "8961 Allingåbro",
-    "datetime": "1990-02-02 21:00:00.000000",
-    "witnesses": 1,
-    "latitude": 56.474484,
-    "longitude": 10.387009
-  },
-  {
-    "location": "4760 Vordingborg",
-    "datetime": "1990-03-30 23:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.010252,
-    "longitude": 11.909748
-  },
-  {
-    "location": "9230 Svenstrup J",
-    "datetime": "1990-08-30 20:30:00.000000",
-    "witnesses": 1,
-    "latitude": 56.970927,
-    "longitude": 9.843641
-  },
-  {
-    "location": "2100 København Ø",
-    "datetime": "1990-09-08 20:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.702359,
-    "longitude": 12.579232
-  },
-  {
-    "location": "5800 Nyborg",
-    "datetime": "1990-09-30 22:15:00.000000",
-    "witnesses": 1,
-    "latitude": 55.309828,
-    "longitude": 10.79766
-  },
-  {
-    "location": "Pannerup, 8380 Trige",
-    "datetime": "1990-11-27 17:45:00.000000",
-    "witnesses": 1,
-    "latitude": 56.254145,
-    "longitude": 10.145375
-  },
-  {
-    "location": "2630 Tåstrup",
-    "datetime": "1990-12-31 20:00:00.000000",
-    "witnesses": null,
-    "latitude": 55.651892,
-    "longitude": 12.31758
-  },
-  {
     "location": "6720 Fanø",
     "datetime": "1991-01-01 00:00:00.000000",
     "witnesses": 1,
@@ -1288,18 +28,18 @@
     "longitude": 12.501227
   },
   {
-    "location": "1650 København V",
-    "datetime": "1992-01-01 22:00:00.000000",
-    "witnesses": null,
-    "latitude": 55.66895,
-    "longitude": 12.552143
-  },
-  {
     "location": "7400 Herning",
     "datetime": "1992-01-01 22:00:00.000000",
     "witnesses": 3,
     "latitude": 56.137976,
     "longitude": 8.974662
+  },
+  {
+    "location": "1650 København V",
+    "datetime": "1992-01-01 22:00:00.000000",
+    "witnesses": null,
+    "latitude": 55.66895,
+    "longitude": 12.552143
   },
   {
     "location": "Efterskolen Smededal4440 Mørkøv",
@@ -2597,6 +1337,13 @@
     "longitude": 12.028484
   },
   {
+    "location": "4690 Haslev",
+    "datetime": "1996-12-28 21:00:00.000000",
+    "witnesses": null,
+    "latitude": 55.327112,
+    "longitude": 11.95673
+  },
+  {
     "location": "4140 Borup",
     "datetime": "1996-12-28 21:00:00.000000",
     "witnesses": 2,
@@ -2609,13 +1356,6 @@
     "witnesses": 2,
     "latitude": 55.54863,
     "longitude": 12.024097
-  },
-  {
-    "location": "4690 Haslev",
-    "datetime": "1996-12-28 21:00:00.000000",
-    "witnesses": null,
-    "latitude": 55.327112,
-    "longitude": 11.95673
   },
   {
     "location": "4420 Regstrup",
@@ -3367,11 +2107,11 @@
     "longitude": 12.469471
   },
   {
-    "location": "2880 Bagsværd",
+    "location": "2000 Frederiksberg",
     "datetime": "1997-05-25 23:00:00.000000",
-    "witnesses": 3,
-    "latitude": 55.758394,
-    "longitude": 12.457311
+    "witnesses": 1,
+    "latitude": 55.678016,
+    "longitude": 12.532619
   },
   {
     "location": "2610 rødovre",
@@ -3381,18 +2121,11 @@
     "longitude": 12.454729
   },
   {
-    "location": "2000 Frederiksberg",
+    "location": "2880 Bagsværd",
     "datetime": "1997-05-25 23:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.678016,
-    "longitude": 12.532619
-  },
-  {
-    "location": "2800 Lyngby",
-    "datetime": "1997-05-25 23:15:00.000000",
     "witnesses": 3,
-    "latitude": 55.783219,
-    "longitude": 12.501227
+    "latitude": 55.758394,
+    "longitude": 12.457311
   },
   {
     "location": "2700 Brønshøj",
@@ -3400,6 +2133,13 @@
     "witnesses": 2,
     "latitude": 55.704111,
     "longitude": 12.498549
+  },
+  {
+    "location": "2800 Lyngby",
+    "datetime": "1997-05-25 23:15:00.000000",
+    "witnesses": 3,
+    "latitude": 55.783219,
+    "longitude": 12.501227
   },
   {
     "location": "2610 rødovre",
@@ -4613,6 +3353,13 @@
     "longitude": 9.844477
   },
   {
+    "location": "8660 Skanderborg",
+    "datetime": "1998-01-21 21:05:00.000000",
+    "witnesses": 2,
+    "latitude": 56.035187,
+    "longitude": 9.931788
+  },
+  {
     "location": "8763 Rask Mølle",
     "datetime": "1998-01-21 21:05:00.000000",
     "witnesses": 4,
@@ -4627,23 +3374,16 @@
     "longitude": 9.844477
   },
   {
-    "location": "8660 Skanderborg",
-    "datetime": "1998-01-21 21:05:00.000000",
-    "witnesses": 2,
-    "latitude": 56.035187,
-    "longitude": 9.931788
-  },
-  {
     "location": "8700 Horsens",
     "datetime": "1998-01-21 21:15:00.000000",
-    "witnesses": 3,
+    "witnesses": 1,
     "latitude": 55.86117,
     "longitude": 9.844477
   },
   {
     "location": "8700 Horsens",
     "datetime": "1998-01-21 21:15:00.000000",
-    "witnesses": 1,
+    "witnesses": 3,
     "latitude": 55.86117,
     "longitude": 9.844477
   },
@@ -4865,18 +3605,18 @@
     "longitude": 10.303932
   },
   {
-    "location": "3150 Hellebæk",
-    "datetime": "1998-05-14 22:30:00.000000",
-    "witnesses": 2,
-    "latitude": 56.064766,
-    "longitude": 12.56442
-  },
-  {
     "location": "3300 Frederiksværk",
     "datetime": "1998-05-14 22:30:00.000000",
     "witnesses": 1,
     "latitude": 55.973704,
     "longitude": 12.021056
+  },
+  {
+    "location": "3150 Hellebæk",
+    "datetime": "1998-05-14 22:30:00.000000",
+    "witnesses": 2,
+    "latitude": 56.064766,
+    "longitude": 12.56442
   },
   {
     "location": "8680 Ry",
@@ -5453,18 +4193,18 @@
     "longitude": 12.063595
   },
   {
-    "location": "9760 Vrå",
-    "datetime": "1998-11-18 16:00:00.000000",
-    "witnesses": 1,
-    "latitude": 57.353265,
-    "longitude": 9.945293
-  },
-  {
     "location": "2300 København S",
     "datetime": "1998-11-18 16:00:00.000000",
     "witnesses": 2,
     "latitude": 55.660154,
     "longitude": 12.601269
+  },
+  {
+    "location": "9760 Vrå",
+    "datetime": "1998-11-18 16:00:00.000000",
+    "witnesses": 1,
+    "latitude": 57.353265,
+    "longitude": 9.945293
   },
   {
     "location": "5700 Svendborg",
@@ -5691,13 +4431,6 @@
     "longitude": 9.921526
   },
   {
-    "location": "8220 Brabrand",
-    "datetime": "1999-01-04 22:47:00.000000",
-    "witnesses": 3,
-    "latitude": 56.153211,
-    "longitude": 10.102417
-  },
-  {
     "location": "2605 Brøndby",
     "datetime": "1999-01-04 22:47:00.000000",
     "witnesses": 2,
@@ -5710,6 +4443,13 @@
     "witnesses": 2,
     "latitude": 55.851908,
     "longitude": 11.584586
+  },
+  {
+    "location": "8220 Brabrand",
+    "datetime": "1999-01-04 22:47:00.000000",
+    "witnesses": 3,
+    "latitude": 56.153211,
+    "longitude": 10.102417
   },
   {
     "location": "Nordsjælland",
@@ -5873,13 +4613,6 @@
     "longitude": 10.194489
   },
   {
-    "location": "Givskud, 7323 Give",
-    "datetime": "1999-02-23 18:15:00.000000",
-    "witnesses": 7,
-    "latitude": 55.845552,
-    "longitude": 9.240154
-  },
-  {
     "location": "6870 Ølgod",
     "datetime": "1999-02-23 18:15:00.000000",
     "witnesses": null,
@@ -5887,11 +4620,11 @@
     "longitude": 8.618131
   },
   {
-    "location": "6040 Egtved",
-    "datetime": "1999-02-23 18:30:00.000000",
-    "witnesses": 10,
-    "latitude": 55.582281,
-    "longitude": 9.37839
+    "location": "Givskud, 7323 Give",
+    "datetime": "1999-02-23 18:15:00.000000",
+    "witnesses": 7,
+    "latitude": 55.845552,
+    "longitude": 9.240154
   },
   {
     "location": "5210 Odense NV",
@@ -5901,11 +4634,18 @@
     "longitude": 10.324331
   },
   {
-    "location": "5620 Glamsbjerg",
+    "location": "6040 Egtved",
+    "datetime": "1999-02-23 18:30:00.000000",
+    "witnesses": 10,
+    "latitude": 55.582281,
+    "longitude": 9.37839
+  },
+  {
+    "location": "7323 Give",
     "datetime": "1999-02-23 19:00:00.000000",
-    "witnesses": 5,
-    "latitude": 55.278326,
-    "longitude": 10.108743
+    "witnesses": 3,
+    "latitude": 55.845552,
+    "longitude": 9.240154
   },
   {
     "location": "Dyvig, 6430 Nordborg",
@@ -5915,11 +4655,11 @@
     "longitude": 9.816936
   },
   {
-    "location": "7323 Give",
+    "location": "5620 Glamsbjerg",
     "datetime": "1999-02-23 19:00:00.000000",
-    "witnesses": 3,
-    "latitude": 55.845552,
-    "longitude": 9.240154
+    "witnesses": 5,
+    "latitude": 55.278326,
+    "longitude": 10.108743
   },
   {
     "location": "6600 Vejen",
@@ -5957,11 +4697,11 @@
     "longitude": 10.400469
   },
   {
-    "location": "8700 Horsens",
+    "location": "Nørre Aldum8781 Stenderup",
     "datetime": "1999-02-23 22:30:00.000000",
     "witnesses": 1,
-    "latitude": 55.86117,
-    "longitude": 9.844477
+    "latitude": 54.733406,
+    "longitude": 9.930536
   },
   {
     "location": "6300 Gråsten",
@@ -5971,11 +4711,11 @@
     "longitude": 9.58663
   },
   {
-    "location": "Nørre Aldum8781 Stenderup",
+    "location": "8700 Horsens",
     "datetime": "1999-02-23 22:30:00.000000",
     "witnesses": 1,
-    "latitude": 54.733406,
-    "longitude": 9.930536
+    "latitude": 55.86117,
+    "longitude": 9.844477
   },
   {
     "location": "8000 Århus C",
@@ -6566,18 +5306,18 @@
     "longitude": 12.530546
   },
   {
-    "location": "9530 Støvring",
-    "datetime": "2000-01-18 17:03:00.000000",
-    "witnesses": 1,
-    "latitude": 56.88472,
-    "longitude": 9.833064
-  },
-  {
     "location": "Christianshede,8600 Silkeborg",
     "datetime": "2000-01-18 17:03:00.000000",
     "witnesses": 2,
     "latitude": 56.169453,
     "longitude": 9.549514
+  },
+  {
+    "location": "9530 Støvring",
+    "datetime": "2000-01-18 17:03:00.000000",
+    "witnesses": 1,
+    "latitude": 56.88472,
+    "longitude": 9.833064
   },
   {
     "location": "5883 Oure",
@@ -6734,18 +5474,18 @@
     "longitude": 8.452075
   },
   {
-    "location": "4773 Stensby",
-    "datetime": "2000-03-03 21:00:00.000000",
-    "witnesses": 4,
-    "latitude": 54.9793002,
-    "longitude": 12.0389242
-  },
-  {
     "location": "4180 Sorø",
     "datetime": "2000-03-03 21:00:00.000000",
     "witnesses": 1,
     "latitude": 55.436582,
     "longitude": 11.562936
+  },
+  {
+    "location": "4773 Stensby",
+    "datetime": "2000-03-03 21:00:00.000000",
+    "witnesses": 4,
+    "latitude": 54.9793002,
+    "longitude": 12.0389242
   },
   {
     "location": "8200 Århus N",
@@ -6839,18 +5579,18 @@
     "longitude": 10.879314
   },
   {
-    "location": "8381 Mundelstrup",
-    "datetime": "2000-03-29 21:53:00.000000",
-    "witnesses": 2,
-    "latitude": 56.1922038,
-    "longitude": 10.08407205
-  },
-  {
     "location": "8300 Odder",
     "datetime": "2000-03-29 21:53:00.000000",
     "witnesses": 2,
     "latitude": 55.975832,
     "longitude": 10.15132
+  },
+  {
+    "location": "8381 Mundelstrup",
+    "datetime": "2000-03-29 21:53:00.000000",
+    "witnesses": 2,
+    "latitude": 56.1922038,
+    "longitude": 10.08407205
   },
   {
     "location": "4300 Holbæk",
@@ -7191,14 +5931,14 @@
   {
     "location": "5900 Rudkøbing",
     "datetime": "2000-07-28 23:30:00.000000",
-    "witnesses": 3,
+    "witnesses": null,
     "latitude": 54.93775,
     "longitude": 10.716757
   },
   {
     "location": "5900 Rudkøbing",
     "datetime": "2000-07-28 23:30:00.000000",
-    "witnesses": null,
+    "witnesses": 3,
     "latitude": 54.93775,
     "longitude": 10.716757
   },
@@ -7931,13 +6671,6 @@
     "longitude": 12.169032
   },
   {
-    "location": "8981 Spentrup",
-    "datetime": "2001-06-05 21:30:00.000000",
-    "witnesses": 1,
-    "latitude": 56.535911,
-    "longitude": 10.034689
-  },
-  {
     "location": "8732 Hovedgård",
     "datetime": "2001-06-05 21:30:00.000000",
     "witnesses": 1,
@@ -7950,6 +6683,13 @@
     "witnesses": 1,
     "latitude": 56.198107,
     "longitude": 10.230005
+  },
+  {
+    "location": "8981 Spentrup",
+    "datetime": "2001-06-05 21:30:00.000000",
+    "witnesses": 1,
+    "latitude": 56.535911,
+    "longitude": 10.034689
   },
   {
     "location": "motorvejen vest for8900 Randers",
@@ -7966,18 +6706,18 @@
     "longitude": 12.303027
   },
   {
-    "location": "6400 Sønderborg",
-    "datetime": "2001-06-05 21:35:00.000000",
-    "witnesses": 4,
-    "latitude": 54.908919,
-    "longitude": 9.7898
-  },
-  {
     "location": "4100 Ringsted",
     "datetime": "2001-06-05 21:35:00.000000",
     "witnesses": 1,
     "latitude": 55.446817,
     "longitude": 11.797522
+  },
+  {
+    "location": "6400 Sønderborg",
+    "datetime": "2001-06-05 21:35:00.000000",
+    "witnesses": 4,
+    "latitude": 54.908919,
+    "longitude": 9.7898
   },
   {
     "location": "7770 Vestervig, Thy",
@@ -8015,18 +6755,18 @@
     "longitude": 10.38521
   },
   {
-    "location": "3390, Tollerup ved Melby",
-    "datetime": "2001-07-23 23:30:00.000000",
-    "witnesses": 8,
-    "latitude": 55.49045,
-    "longitude": 14.089317
-  },
-  {
     "location": "4720 Bårse",
     "datetime": "2001-07-23 23:30:00.000000",
     "witnesses": null,
     "latitude": 55.1440972,
     "longitude": 11.946057
+  },
+  {
+    "location": "3390, Tollerup ved Melby",
+    "datetime": "2001-07-23 23:30:00.000000",
+    "witnesses": 8,
+    "latitude": 55.49045,
+    "longitude": 14.089317
   },
   {
     "location": "2500 Valby",
@@ -8421,18 +7161,18 @@
     "longitude": 9.86020825
   },
   {
-    "location": "8500 Hobro",
-    "datetime": "2002-01-03 18:13:00.000000",
-    "witnesses": 2,
-    "latitude": 56.63382075,
-    "longitude": 9.81809175
-  },
-  {
     "location": "6800 Varde",
     "datetime": "2002-01-03 18:13:00.000000",
     "witnesses": 1,
     "latitude": 55.61767,
     "longitude": 8.481176
+  },
+  {
+    "location": "8500 Hobro",
+    "datetime": "2002-01-03 18:13:00.000000",
+    "witnesses": 2,
+    "latitude": 56.63382075,
+    "longitude": 9.81809175
   },
   {
     "location": "8800 Viborg",
@@ -11914,18 +10654,18 @@
     "longitude": 12.081925
   },
   {
-    "location": "8210/8220 Århus V/Brabrand",
-    "datetime": "2006-09-21 06:14:00.000000",
-    "witnesses": 1,
-    "latitude": 56.147605,
-    "longitude": 10.175829
-  },
-  {
     "location": "2750 Ballerup",
     "datetime": "2006-09-21 06:14:00.000000",
     "witnesses": 2,
     "latitude": 55.730359,
     "longitude": 12.361231
+  },
+  {
+    "location": "8210/8220 Århus V/Brabrand",
+    "datetime": "2006-09-21 06:14:00.000000",
+    "witnesses": 1,
+    "latitude": 56.147605,
+    "longitude": 10.175829
   },
   {
     "location": "2980 Kokkedal",
@@ -12229,18 +10969,18 @@
     "longitude": 10.0402235
   },
   {
-    "location": "3790 Hasle",
-    "datetime": "2007-02-06 23:25:00.000000",
-    "witnesses": 1,
-    "latitude": 55.180633,
-    "longitude": 14.710558
-  },
-  {
     "location": "3060 Espergærde",
     "datetime": "2007-02-06 23:25:00.000000",
     "witnesses": 4,
     "latitude": 55.990778,
     "longitude": 12.552963
+  },
+  {
+    "location": "3790 Hasle",
+    "datetime": "2007-02-06 23:25:00.000000",
+    "witnesses": 1,
+    "latitude": 55.180633,
+    "longitude": 14.710558
   },
   {
     "location": "6430 Nordborg",
@@ -12343,6 +11083,13 @@
   {
     "location": "8000 Århus C",
     "datetime": "2007-03-20 21:00:00.000000",
+    "witnesses": 1,
+    "latitude": 56.164402,
+    "longitude": 10.224361
+  },
+  {
+    "location": "8000 Århus C",
+    "datetime": "2007-03-20 21:00:00.000000",
     "witnesses": 2,
     "latitude": 56.164402,
     "longitude": 10.224361
@@ -12353,13 +11100,6 @@
     "witnesses": 2,
     "latitude": 55.965235,
     "longitude": 9.393717
-  },
-  {
-    "location": "8000 Århus C",
-    "datetime": "2007-03-20 21:00:00.000000",
-    "witnesses": 1,
-    "latitude": 56.164402,
-    "longitude": 10.224361
   },
   {
     "location": "4000 Roskilde",
@@ -12509,32 +11249,18 @@
     "longitude": 12.601269
   },
   {
-    "location": "2300 København S",
-    "datetime": "2007-05-08 00:30:00.000000",
-    "witnesses": 2,
-    "latitude": 55.660154,
-    "longitude": 12.601269
-  },
-  {
-    "location": "Enghaveplads1670 København V",
-    "datetime": "2007-05-08 00:30:00.000000",
-    "witnesses": 3,
-    "latitude": 55.7803173,
-    "longitude": 12.5584158
-  },
-  {
-    "location": "1316 København K",
-    "datetime": "2007-05-08 00:30:00.000000",
-    "witnesses": 2,
-    "latitude": 55.688038,
-    "longitude": 12.582932
-  },
-  {
     "location": "1620 København V",
     "datetime": "2007-05-08 00:30:00.000000",
     "witnesses": 2,
     "latitude": 55.672655,
     "longitude": 12.551311
+  },
+  {
+    "location": "2300 København S",
+    "datetime": "2007-05-08 00:30:00.000000",
+    "witnesses": 4,
+    "latitude": 55.660154,
+    "longitude": 12.601269
   },
   {
     "location": "2000 Frederiksberg",
@@ -12544,11 +11270,25 @@
     "longitude": 12.532619
   },
   {
+    "location": "Enghaveplads1670 København V",
+    "datetime": "2007-05-08 00:30:00.000000",
+    "witnesses": 3,
+    "latitude": 55.7803173,
+    "longitude": 12.5584158
+  },
+  {
     "location": "2300 København S",
     "datetime": "2007-05-08 00:30:00.000000",
-    "witnesses": 4,
+    "witnesses": 2,
     "latitude": 55.660154,
     "longitude": 12.601269
+  },
+  {
+    "location": "1316 København K",
+    "datetime": "2007-05-08 00:30:00.000000",
+    "witnesses": 2,
+    "latitude": 55.688038,
+    "longitude": 12.582932
   },
   {
     "location": "2300 København S",
@@ -12586,18 +11326,18 @@
     "longitude": 12.601269
   },
   {
-    "location": "2300 København S",
-    "datetime": "2007-05-08 01:00:00.000000",
-    "witnesses": null,
-    "latitude": 55.660154,
-    "longitude": 12.601269
-  },
-  {
     "location": "Kolonihaver bag Islands Brygge2300 København S",
     "datetime": "2007-05-08 01:00:00.000000",
     "witnesses": 25,
     "latitude": 55.682217,
     "longitude": 12.493557
+  },
+  {
+    "location": "2300 København S",
+    "datetime": "2007-05-08 01:00:00.000000",
+    "witnesses": null,
+    "latitude": 55.660154,
+    "longitude": 12.601269
   },
   {
     "location": "Bryggen2300 København Ø",
@@ -12642,13 +11382,6 @@
     "longitude": 10.063406
   },
   {
-    "location": "4871 Horbelev",
-    "datetime": "2007-05-23 22:00:00.000000",
-    "witnesses": 1,
-    "latitude": 54.822212,
-    "longitude": 12.056194
-  },
-  {
     "location": "4850 Maglebrænde",
     "datetime": "2007-05-23 22:00:00.000000",
     "witnesses": 2,
@@ -12656,11 +11389,11 @@
     "longitude": 12.021455
   },
   {
-    "location": "4891 Toreby",
+    "location": "4871 Horbelev",
     "datetime": "2007-05-23 22:00:00.000000",
     "witnesses": 1,
-    "latitude": 54.758302,
-    "longitude": 11.783014
+    "latitude": 54.822212,
+    "longitude": 12.056194
   },
   {
     "location": "Engestofte4930 Maribo",
@@ -12668,6 +11401,13 @@
     "witnesses": 1,
     "latitude": 54.774633,
     "longitude": 11.515652
+  },
+  {
+    "location": "4891 Toreby",
+    "datetime": "2007-05-23 22:00:00.000000",
+    "witnesses": 1,
+    "latitude": 54.758302,
+    "longitude": 11.783014
   },
   {
     "location": "4872 Idestrup",
@@ -13006,14 +11746,14 @@
     "longitude": 11.294201
   },
   {
-    "location": "7400 Herning",
+    "location": "Gjellerup7400 Herning",
     "datetime": "2007-08-25 22:00:00.000000",
     "witnesses": 2,
     "latitude": 56.137976,
     "longitude": 8.974662
   },
   {
-    "location": "Gjellerup7400 Herning",
+    "location": "7400 Herning",
     "datetime": "2007-08-25 22:00:00.000000",
     "witnesses": 2,
     "latitude": 56.137976,
@@ -13944,18 +12684,18 @@
     "longitude": 10.377802
   },
   {
-    "location": "5230 Odense M",
-    "datetime": "2008-05-17 22:30:00.000000",
-    "witnesses": 8,
-    "latitude": 55.38215895,
-    "longitude": 10.41128095
-  },
-  {
     "location": "5000 Odense C",
     "datetime": "2008-05-17 22:30:00.000000",
     "witnesses": 2,
     "latitude": 55.397357,
     "longitude": 10.377802
+  },
+  {
+    "location": "5230 Odense M",
+    "datetime": "2008-05-17 22:30:00.000000",
+    "witnesses": 8,
+    "latitude": 55.38215895,
+    "longitude": 10.41128095
   },
   {
     "location": "5230 Odense M",
@@ -14175,18 +12915,18 @@
     "longitude": 10.0654195
   },
   {
-    "location": "8520 Lystrup",
-    "datetime": "2008-06-18 23:46:00.000000",
-    "witnesses": 2,
-    "latitude": 56.236321,
-    "longitude": 10.238378
-  },
-  {
     "location": "8471 Sabro",
     "datetime": "2008-06-18 23:46:00.000000",
     "witnesses": 1,
     "latitude": 56.211649,
     "longitude": 10.033979
+  },
+  {
+    "location": "8520 Lystrup",
+    "datetime": "2008-06-18 23:46:00.000000",
+    "witnesses": 2,
+    "latitude": 56.236321,
+    "longitude": 10.238378
   },
   {
     "location": "8210 Århus V",
@@ -14492,14 +13232,14 @@
   {
     "location": "9000 Aalborg",
     "datetime": "2008-07-27 23:10:00.000000",
-    "witnesses": 1,
+    "witnesses": 3,
     "latitude": 57.046263,
     "longitude": 9.921526
   },
   {
     "location": "9000 Aalborg",
     "datetime": "2008-07-27 23:10:00.000000",
-    "witnesses": 3,
+    "witnesses": 1,
     "latitude": 57.046263,
     "longitude": 9.921526
   },
@@ -14707,18 +13447,18 @@
     "longitude": 9.30377
   },
   {
-    "location": "Brabrandsøen8260 Viby J",
-    "datetime": "2008-08-16 22:00:00.000000",
-    "witnesses": 1,
-    "latitude": 56.122143,
-    "longitude": 10.156576
-  },
-  {
     "location": "2770 Kastrup",
     "datetime": "2008-08-16 22:00:00.000000",
     "witnesses": 2,
     "latitude": 55.634014,
     "longitude": 12.629199
+  },
+  {
+    "location": "Brabrandsøen8260 Viby J",
+    "datetime": "2008-08-16 22:00:00.000000",
+    "witnesses": 1,
+    "latitude": 56.122143,
+    "longitude": 10.156576
   },
   {
     "location": "2800 Lyngby",
@@ -14730,14 +13470,14 @@
   {
     "location": "Slaglunde3660 Stenløse",
     "datetime": "2008-08-16 22:30:00.000000",
-    "witnesses": 4,
+    "witnesses": 1,
     "latitude": 55.768279,
     "longitude": 12.198555
   },
   {
     "location": "Slaglunde3660 Stenløse",
     "datetime": "2008-08-16 22:30:00.000000",
-    "witnesses": 1,
+    "witnesses": 4,
     "latitude": 55.768279,
     "longitude": 12.198555
   },
@@ -14847,11 +13587,11 @@
     "longitude": 10.699621
   },
   {
-    "location": "6270 Tønder",
+    "location": "5683 Hårby",
     "datetime": "2008-08-30 21:00:00.000000",
-    "witnesses": 3,
-    "latitude": 54.938064,
-    "longitude": 8.862941
+    "witnesses": 1,
+    "latitude": 55.220331,
+    "longitude": 10.125818
   },
   {
     "location": "4621 Gadstrup",
@@ -14861,6 +13601,13 @@
     "longitude": 12.093844
   },
   {
+    "location": "6270 Tønder",
+    "datetime": "2008-08-30 21:00:00.000000",
+    "witnesses": 3,
+    "latitude": 54.938064,
+    "longitude": 8.862941
+  },
+  {
     "location": "4300 Holbæk",
     "datetime": "2008-08-30 21:00:00.000000",
     "witnesses": 2,
@@ -14868,18 +13615,18 @@
     "longitude": 11.713547
   },
   {
-    "location": "5683 Hårby",
-    "datetime": "2008-08-30 21:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.220331,
-    "longitude": 10.125818
-  },
-  {
     "location": "8362 Hørning",
     "datetime": "2008-08-30 21:25:00.000000",
     "witnesses": 5,
     "latitude": 56.085919,
     "longitude": 10.035605
+  },
+  {
+    "location": "4220 Korsør",
+    "datetime": "2008-08-30 21:30:00.000000",
+    "witnesses": 1,
+    "latitude": 55.341528,
+    "longitude": 11.136725
   },
   {
     "location": "2670 Greve",
@@ -14901,13 +13648,6 @@
     "witnesses": 5,
     "latitude": 55.634014,
     "longitude": 12.629199
-  },
-  {
-    "location": "4220 Korsør",
-    "datetime": "2008-08-30 21:30:00.000000",
-    "witnesses": 1,
-    "latitude": 55.341528,
-    "longitude": 11.136725
   },
   {
     "location": "2770 Kastrup",
@@ -15603,18 +14343,18 @@
     "longitude": 8.615919
   },
   {
-    "location": "9200 Aalborg SV",
-    "datetime": "2009-01-01 00:15:00.000000",
-    "witnesses": 3,
-    "latitude": 57.00125885,
-    "longitude": 9.8271132
-  },
-  {
     "location": "7500 Holstebro",
     "datetime": "2009-01-01 00:15:00.000000",
     "witnesses": 10,
     "latitude": 56.359032,
     "longitude": 8.615919
+  },
+  {
+    "location": "9200 Aalborg SV",
+    "datetime": "2009-01-01 00:15:00.000000",
+    "witnesses": 3,
+    "latitude": 57.00125885,
+    "longitude": 9.8271132
   },
   {
     "location": "9200 Aalborg SV",
@@ -15631,13 +14371,6 @@
     "longitude": 10.033319
   },
   {
-    "location": "4700 Næstved",
-    "datetime": "2009-01-01 00:30:00.000000",
-    "witnesses": 1,
-    "latitude": 55.232825,
-    "longitude": 11.76741
-  },
-  {
     "location": "Fjellerup Strand8585 Glesborg",
     "datetime": "2009-01-01 00:30:00.000000",
     "witnesses": 4,
@@ -15657,6 +14390,13 @@
     "witnesses": 4,
     "latitude": 56.514083,
     "longitude": 10.633411
+  },
+  {
+    "location": "4700 Næstved",
+    "datetime": "2009-01-01 00:30:00.000000",
+    "witnesses": 1,
+    "latitude": 55.232825,
+    "longitude": 11.76741
   },
   {
     "location": "7500 Holstebro",
@@ -15701,9 +14441,9 @@
     "longitude": 9.642871
   },
   {
-    "location": "Skørbæk, 9240 Nibe",
+    "location": "9240 Nibe",
     "datetime": "2009-01-01 00:47:00.000000",
-    "witnesses": 2,
+    "witnesses": 4,
     "latitude": 56.982381,
     "longitude": 9.642871
   },
@@ -15722,9 +14462,9 @@
     "longitude": 9.642871
   },
   {
-    "location": "9240 Nibe",
+    "location": "Skørbæk, 9240 Nibe",
     "datetime": "2009-01-01 00:47:00.000000",
-    "witnesses": 4,
+    "witnesses": 2,
     "latitude": 56.982381,
     "longitude": 9.642871
   },
@@ -15967,18 +14707,11 @@
     "longitude": 11.87625
   },
   {
-    "location": "4800 Nykøbing F",
-    "datetime": "2009-01-17 20:09:00.000000",
-    "witnesses": 3,
-    "latitude": 54.767271,
-    "longitude": 11.876822
-  },
-  {
-    "location": "mellem 4800 Nykøbing F og 4880 Nysted",
+    "location": "4700 Næstved",
     "datetime": "2009-01-17 20:09:00.000000",
     "witnesses": 2,
-    "latitude": 54.662787,
-    "longitude": 11.733077
+    "latitude": 55.232825,
+    "longitude": 11.76741
   },
   {
     "location": "mellem 4800 Nykøbing F og 4880 Nysted",
@@ -16002,11 +14735,39 @@
     "longitude": 11.76741
   },
   {
-    "location": "4700 Næstved",
+    "location": "mellem 4800 Nykøbing F og 4880 Nysted",
     "datetime": "2009-01-17 20:09:00.000000",
     "witnesses": 2,
-    "latitude": 55.232825,
-    "longitude": 11.76741
+    "latitude": 54.662787,
+    "longitude": 11.733077
+  },
+  {
+    "location": "4800 Nykøbing F",
+    "datetime": "2009-01-17 20:09:00.000000",
+    "witnesses": 3,
+    "latitude": 54.767271,
+    "longitude": 11.876822
+  },
+  {
+    "location": "3700 Rønne",
+    "datetime": "2009-01-17 20:10:00.000000",
+    "witnesses": null,
+    "latitude": 55.099451,
+    "longitude": 14.706091
+  },
+  {
+    "location": "4681 Herfølge",
+    "datetime": "2009-01-17 20:10:00.000000",
+    "witnesses": 3,
+    "latitude": 55.410088,
+    "longitude": 12.143111
+  },
+  {
+    "location": "Årby, 4400 Kalundborg",
+    "datetime": "2009-01-17 20:10:00.000000",
+    "witnesses": 2,
+    "latitude": 55.683379,
+    "longitude": 11.099362
   },
   {
     "location": "4872 Idestrup",
@@ -16023,18 +14784,18 @@
     "longitude": 14.706091
   },
   {
+    "location": "4681 Herfølge",
+    "datetime": "2009-01-17 20:10:00.000000",
+    "witnesses": 3,
+    "latitude": 55.410088,
+    "longitude": 12.143111
+  },
+  {
     "location": "Årby, 4400 Kalundborg",
     "datetime": "2009-01-17 20:10:00.000000",
     "witnesses": 2,
     "latitude": 55.683379,
     "longitude": 11.099362
-  },
-  {
-    "location": "3700 Rønne",
-    "datetime": "2009-01-17 20:10:00.000000",
-    "witnesses": null,
-    "latitude": 55.099451,
-    "longitude": 14.706091
   },
   {
     "location": "4872 Idestrup",
@@ -16042,27 +14803,6 @@
     "witnesses": 2,
     "latitude": 54.721145,
     "longitude": 11.978346
-  },
-  {
-    "location": "Årby, 4400 Kalundborg",
-    "datetime": "2009-01-17 20:10:00.000000",
-    "witnesses": 2,
-    "latitude": 55.683379,
-    "longitude": 11.099362
-  },
-  {
-    "location": "4681 Herfølge",
-    "datetime": "2009-01-17 20:10:00.000000",
-    "witnesses": 3,
-    "latitude": 55.410088,
-    "longitude": 12.143111
-  },
-  {
-    "location": "4681 Herfølge",
-    "datetime": "2009-01-17 20:10:00.000000",
-    "witnesses": 3,
-    "latitude": 55.410088,
-    "longitude": 12.143111
   },
   {
     "location": "Stubberup4880 Nysted",
@@ -16151,14 +14891,14 @@
   {
     "location": "2650 Hvidovre",
     "datetime": "2009-01-24 22:45:00.000000",
-    "witnesses": 2,
+    "witnesses": 4,
     "latitude": 55.644171,
     "longitude": 12.477209
   },
   {
     "location": "2650 Hvidovre",
     "datetime": "2009-01-24 22:45:00.000000",
-    "witnesses": 4,
+    "witnesses": 2,
     "latitude": 55.644171,
     "longitude": 12.477209
   },
@@ -16429,16 +15169,16 @@
     "longitude": 11.713547
   },
   {
-    "location": "Borup, 4300 Holbæk",
+    "location": "Tuse, 4300 Holbæk",
     "datetime": "2009-02-27 21:00:00.000000",
-    "witnesses": 1,
+    "witnesses": 2,
     "latitude": 55.718612,
     "longitude": 11.713547
   },
   {
-    "location": "Tuse, 4300 Holbæk",
+    "location": "Borup, 4300 Holbæk",
     "datetime": "2009-02-27 21:00:00.000000",
-    "witnesses": 2,
+    "witnesses": 1,
     "latitude": 55.718612,
     "longitude": 11.713547
   },
@@ -17003,18 +15743,18 @@
     "longitude": 12.613007
   },
   {
-    "location": "1174 København K",
-    "datetime": "2009-05-30 23:30:00.000000",
-    "witnesses": 2,
-    "latitude": 55.682355,
-    "longitude": 12.572768
-  },
-  {
     "location": "1112 København K",
     "datetime": "2009-05-30 23:30:00.000000",
     "witnesses": 12,
     "latitude": 55.680777,
     "longitude": 12.580271
+  },
+  {
+    "location": "1174 København K",
+    "datetime": "2009-05-30 23:30:00.000000",
+    "witnesses": 2,
+    "latitude": 55.682355,
+    "longitude": 12.572768
   },
   {
     "location": "Ørup, 8444 Balle",
@@ -17397,14 +16137,14 @@
   {
     "location": "2690 Karlslunde",
     "datetime": "2009-08-05 22:00:00.000000",
-    "witnesses": 3,
+    "witnesses": 2,
     "latitude": 55.564796,
     "longitude": 12.253949
   },
   {
     "location": "2690 Karlslunde",
     "datetime": "2009-08-05 22:00:00.000000",
-    "witnesses": 2,
+    "witnesses": 3,
     "latitude": 55.564796,
     "longitude": 12.253949
   },
@@ -17444,18 +16184,18 @@
     "longitude": 10.189072
   },
   {
-    "location": "4700 Næstved",
-    "datetime": "2009-08-15 22:00:00.000000",
-    "witnesses": 4,
-    "latitude": 55.232825,
-    "longitude": 11.76741
-  },
-  {
     "location": "Elkenøre4873 Væggerløse",
     "datetime": "2009-08-15 22:00:00.000000",
     "witnesses": 3,
     "latitude": 54.711351,
     "longitude": 11.921172
+  },
+  {
+    "location": "4700 Næstved",
+    "datetime": "2009-08-15 22:00:00.000000",
+    "witnesses": 4,
+    "latitude": 55.232825,
+    "longitude": 11.76741
   },
   {
     "location": "3250 Gilleleje",
@@ -17577,18 +16317,18 @@
     "longitude": 10.230005
   },
   {
-    "location": "8600 Silkeborg",
-    "datetime": "2009-08-23 00:30:00.000000",
-    "witnesses": 2,
-    "latitude": 56.169453,
-    "longitude": 9.549514
-  },
-  {
     "location": "8660 Skanderborg",
     "datetime": "2009-08-23 00:30:00.000000",
     "witnesses": 2,
     "latitude": 56.035187,
     "longitude": 9.931788
+  },
+  {
+    "location": "8600 Silkeborg",
+    "datetime": "2009-08-23 00:30:00.000000",
+    "witnesses": 2,
+    "latitude": 56.169453,
+    "longitude": 9.549514
   },
   {
     "location": "8600 Silkeborg",
@@ -18251,6 +16991,13 @@
   {
     "location": "2605 Brøndby",
     "datetime": "2010-01-01 00:30:00.000000",
+    "witnesses": 8,
+    "latitude": 55.644111,
+    "longitude": 12.421713
+  },
+  {
+    "location": "2605 Brøndby",
+    "datetime": "2010-01-01 00:30:00.000000",
     "witnesses": 2,
     "latitude": 55.644111,
     "longitude": 12.421713
@@ -18259,13 +17006,6 @@
     "location": "2605 Brøndby",
     "datetime": "2010-01-01 00:30:00.000000",
     "witnesses": 6,
-    "latitude": 55.644111,
-    "longitude": 12.421713
-  },
-  {
-    "location": "2605 Brøndby",
-    "datetime": "2010-01-01 00:30:00.000000",
-    "witnesses": 8,
     "latitude": 55.644111,
     "longitude": 12.421713
   },
@@ -18382,6 +17122,13 @@
     "longitude": 9.844477
   },
   {
+    "location": "3390 Hundested",
+    "datetime": "2010-02-03 21:18:00.000000",
+    "witnesses": 1,
+    "latitude": 55.961865,
+    "longitude": 11.863223
+  },
+  {
     "location": "9381 Ajstrup",
     "datetime": "2010-02-03 21:18:00.000000",
     "witnesses": 1,
@@ -18394,13 +17141,6 @@
     "witnesses": 1,
     "latitude": 56.236321,
     "longitude": 10.238378
-  },
-  {
-    "location": "3390 Hundested",
-    "datetime": "2010-02-03 21:18:00.000000",
-    "witnesses": 1,
-    "latitude": 55.961865,
-    "longitude": 11.863223
   },
   {
     "location": "4520 Svinninge",
@@ -18454,6 +17194,20 @@
   {
     "location": "2840 Holte",
     "datetime": "2010-03-04 22:45:00.000000",
+    "witnesses": 1,
+    "latitude": 55.812514,
+    "longitude": 12.468751
+  },
+  {
+    "location": "2840 Holte",
+    "datetime": "2010-03-04 22:45:00.000000",
+    "witnesses": 2,
+    "latitude": 55.812514,
+    "longitude": 12.468751
+  },
+  {
+    "location": "2840 Holte",
+    "datetime": "2010-03-04 22:45:00.000000",
     "witnesses": 2,
     "latitude": 55.812514,
     "longitude": 12.468751
@@ -18462,20 +17216,6 @@
     "location": "2840 Holte",
     "datetime": "2010-03-04 22:45:00.000000",
     "witnesses": 3,
-    "latitude": 55.812514,
-    "longitude": 12.468751
-  },
-  {
-    "location": "2840 Holte",
-    "datetime": "2010-03-04 22:45:00.000000",
-    "witnesses": 2,
-    "latitude": 55.812514,
-    "longitude": 12.468751
-  },
-  {
-    "location": "2840 Holte",
-    "datetime": "2010-03-04 22:45:00.000000",
-    "witnesses": 1,
     "latitude": 55.812514,
     "longitude": 12.468751
   },
@@ -19138,18 +17878,18 @@
     "longitude": 10.253312
   },
   {
-    "location": "9870 Sindal",
-    "datetime": "2010-07-08 22:30:00.000000",
-    "witnesses": 2,
-    "latitude": 57.475513,
-    "longitude": 10.199427
-  },
-  {
     "location": "2635 Ishøj",
     "datetime": "2010-07-08 22:30:00.000000",
     "witnesses": 20,
     "latitude": 55.609447,
     "longitude": 12.358255
+  },
+  {
+    "location": "9870 Sindal",
+    "datetime": "2010-07-08 22:30:00.000000",
+    "witnesses": 2,
+    "latitude": 57.475513,
+    "longitude": 10.199427
   },
   {
     "location": "2630 Tåstrup",
@@ -20265,18 +19005,18 @@
     "longitude": 10.4285188
   },
   {
-    "location": "6092 Sdr. Stenderup",
-    "datetime": "2011-03-19 19:15:00.000000",
-    "witnesses": 3,
-    "latitude": 55.45973765,
-    "longitude": 9.68228255
-  },
-  {
     "location": "6000 Kolding",
     "datetime": "2011-03-19 19:15:00.000000",
     "witnesses": 2,
     "latitude": 55.4895,
     "longitude": 9.47905
+  },
+  {
+    "location": "6092 Sdr. Stenderup",
+    "datetime": "2011-03-19 19:15:00.000000",
+    "witnesses": 3,
+    "latitude": 55.45973765,
+    "longitude": 9.68228255
   },
   {
     "location": "8600 Silkeborg",
@@ -20589,14 +19329,14 @@
   {
     "location": "5200 Odense V",
     "datetime": "2011-05-15 23:17:00.000000",
-    "witnesses": 2,
+    "witnesses": 1,
     "latitude": 55.39179885,
     "longitude": 10.3422801
   },
   {
     "location": "5200 Odense V",
     "datetime": "2011-05-15 23:17:00.000000",
-    "witnesses": 1,
+    "witnesses": 2,
     "latitude": 55.39179885,
     "longitude": 10.3422801
   },
@@ -20659,14 +19399,14 @@
   {
     "location": "8660 Skanderborg",
     "datetime": "2011-06-02 00:15:00.000000",
-    "witnesses": 1,
+    "witnesses": 6,
     "latitude": 56.035187,
     "longitude": 9.931788
   },
   {
     "location": "8660 Skanderborg",
     "datetime": "2011-06-02 00:15:00.000000",
-    "witnesses": 6,
+    "witnesses": 1,
     "latitude": 56.035187,
     "longitude": 9.931788
   },
@@ -21035,18 +19775,18 @@
     "longitude": 10.253312
   },
   {
-    "location": "4600 Køge",
-    "datetime": "2011-08-20 22:10:00.000000",
-    "witnesses": 2,
-    "latitude": 55.456501,
-    "longitude": 12.181896
-  },
-  {
     "location": "8600 Silkeborg",
     "datetime": "2011-08-20 22:10:00.000000",
     "witnesses": 1,
     "latitude": 56.169453,
     "longitude": 9.549514
+  },
+  {
+    "location": "4600 Køge",
+    "datetime": "2011-08-20 22:10:00.000000",
+    "witnesses": 2,
+    "latitude": 55.456501,
+    "longitude": 12.181896
   },
   {
     "location": "3550 Slangerup",
@@ -22190,13 +20930,6 @@
     "longitude": 9.9856
   },
   {
-    "location": "2770 Kastrup",
-    "datetime": "2012-06-10 21:30:00.000000",
-    "witnesses": 2,
-    "latitude": 55.634014,
-    "longitude": 12.629199
-  },
-  {
     "location": "Tårnby, 2770 Kastrup",
     "datetime": "2012-06-10 21:30:00.000000",
     "witnesses": 3,
@@ -22209,6 +20942,13 @@
     "witnesses": 6,
     "latitude": 55.4895,
     "longitude": 9.47905
+  },
+  {
+    "location": "2770 Kastrup",
+    "datetime": "2012-06-10 21:30:00.000000",
+    "witnesses": 2,
+    "latitude": 55.634014,
+    "longitude": 12.629199
   },
   {
     "location": "6000 Kolding",
@@ -22505,18 +21245,18 @@
     "longitude": 9.931788
   },
   {
-    "location": "8600 Silkeborg",
-    "datetime": "2012-08-04 22:00:00.000000",
-    "witnesses": 2,
-    "latitude": 56.169453,
-    "longitude": 9.549514
-  },
-  {
     "location": "Nr. Vissing8660 Skanderborg",
     "datetime": "2012-08-04 22:00:00.000000",
     "witnesses": 1,
     "latitude": 56.0432855,
     "longitude": 9.924886
+  },
+  {
+    "location": "8600 Silkeborg",
+    "datetime": "2012-08-04 22:00:00.000000",
+    "witnesses": 2,
+    "latitude": 56.169453,
+    "longitude": 9.549514
   },
   {
     "location": "Svejstrup Enge8660 Skanderborg",
@@ -22526,18 +21266,18 @@
     "longitude": 9.924886
   },
   {
-    "location": "8660 Skanderborg",
-    "datetime": "2012-08-04 22:30:00.000000",
-    "witnesses": 1,
-    "latitude": 56.035187,
-    "longitude": 9.931788
-  },
-  {
     "location": "8680 Ry",
     "datetime": "2012-08-04 22:30:00.000000",
     "witnesses": 1,
     "latitude": 56.088356,
     "longitude": 9.771875
+  },
+  {
+    "location": "8660 Skanderborg",
+    "datetime": "2012-08-04 22:30:00.000000",
+    "witnesses": 1,
+    "latitude": 56.035187,
+    "longitude": 9.931788
   },
   {
     "location": "Ejer Bavnehøj8660 Skanderborg",
@@ -22610,18 +21350,18 @@
     "longitude": 8.69025
   },
   {
-    "location": "Enø4736 Karrebæksminde",
-    "datetime": "2012-08-14 22:50:00.000000",
-    "witnesses": 1,
-    "latitude": 55.178016,
-    "longitude": 11.646848
-  },
-  {
     "location": "9800 Hjørring",
     "datetime": "2012-08-14 22:50:00.000000",
     "witnesses": 1,
     "latitude": 57.457183,
     "longitude": 9.9856
+  },
+  {
+    "location": "Enø4736 Karrebæksminde",
+    "datetime": "2012-08-14 22:50:00.000000",
+    "witnesses": 1,
+    "latitude": 55.178016,
+    "longitude": 11.646848
   },
   {
     "location": "4180 Sorø",
@@ -22638,18 +21378,18 @@
     "longitude": 10.224361
   },
   {
-    "location": "4600 Køge",
-    "datetime": "2012-08-18 22:00:00.000000",
-    "witnesses": 2,
-    "latitude": 55.456501,
-    "longitude": 12.181896
-  },
-  {
     "location": "2770 Kastrup",
     "datetime": "2012-08-18 22:00:00.000000",
     "witnesses": 3,
     "latitude": 55.634014,
     "longitude": 12.629199
+  },
+  {
+    "location": "4600 Køge",
+    "datetime": "2012-08-18 22:00:00.000000",
+    "witnesses": 2,
+    "latitude": 55.456501,
+    "longitude": 12.181896
   },
   {
     "location": "8000 Aarhus C",
@@ -22680,18 +21420,18 @@
     "longitude": 9.7898
   },
   {
-    "location": "4300 Holbæk",
-    "datetime": "2012-08-18 22:30:00.000000",
-    "witnesses": 1,
-    "latitude": 55.718612,
-    "longitude": 11.713547
-  },
-  {
     "location": "3230 Tisvildeleje",
     "datetime": "2012-08-18 22:30:00.000000",
     "witnesses": 8,
     "latitude": 56.059458750000005,
     "longitude": 12.07642525
+  },
+  {
+    "location": "4300 Holbæk",
+    "datetime": "2012-08-18 22:30:00.000000",
+    "witnesses": 1,
+    "latitude": 55.718612,
+    "longitude": 11.713547
   },
   {
     "location": "8700 Horsens",
@@ -23107,13 +21847,6 @@
     "longitude": 10.159883
   },
   {
-    "location": "Nordby, 8305 Samsø",
-    "datetime": "2012-11-08 22:10:00.000000",
-    "witnesses": 3,
-    "latitude": 55.830586,
-    "longitude": 10.592765
-  },
-  {
     "location": "2730 Herlev",
     "datetime": "2012-11-08 22:10:00.000000",
     "witnesses": 2,
@@ -23121,11 +21854,11 @@
     "longitude": 12.437722
   },
   {
-    "location": "4500 Nykøbing Sjælland",
-    "datetime": "2012-11-08 22:30:00.000000",
-    "witnesses": 4,
-    "latitude": 55.934258,
-    "longitude": 11.657676
+    "location": "Nordby, 8305 Samsø",
+    "datetime": "2012-11-08 22:10:00.000000",
+    "witnesses": 3,
+    "latitude": 55.830586,
+    "longitude": 10.592765
   },
   {
     "location": "2400 Københvn NV",
@@ -23133,6 +21866,13 @@
     "witnesses": 3,
     "latitude": 55.708916,
     "longitude": 12.530014
+  },
+  {
+    "location": "4500 Nykøbing Sjælland",
+    "datetime": "2012-11-08 22:30:00.000000",
+    "witnesses": 4,
+    "latitude": 55.934258,
+    "longitude": 11.657676
   },
   {
     "location": "Løvel, 8830 Tjele",
@@ -23249,14 +21989,14 @@
   {
     "location": "8700 Horsens",
     "datetime": "2012-12-05 23:30:00.000000",
-    "witnesses": 3,
+    "witnesses": 2,
     "latitude": 55.86117,
     "longitude": 9.844477
   },
   {
     "location": "8700 Horsens",
     "datetime": "2012-12-05 23:30:00.000000",
-    "witnesses": 2,
+    "witnesses": 3,
     "latitude": 55.86117,
     "longitude": 9.844477
   },
@@ -25242,18 +23982,18 @@
     "longitude": 12.592434
   },
   {
-    "location": "6400 Sønderborg",
-    "datetime": "2014-06-26 23:00:00.000000",
-    "witnesses": 2,
-    "latitude": 54.908919,
-    "longitude": 9.7898
-  },
-  {
     "location": "4060 Kirke Såby",
     "datetime": "2014-06-26 23:00:00.000000",
     "witnesses": 1,
     "latitude": 55.642347,
     "longitude": 11.854825
+  },
+  {
+    "location": "6400 Sønderborg",
+    "datetime": "2014-06-26 23:00:00.000000",
+    "witnesses": 2,
+    "latitude": 54.908919,
+    "longitude": 9.7898
   },
   {
     "location": "4800 Nykøbing F",
@@ -26439,18 +25179,18 @@
     "longitude": 10.79766
   },
   {
-    "location": "6400 Sønderborg",
-    "datetime": "2015-10-04 21:30:00.000000",
-    "witnesses": 4,
-    "latitude": 54.908919,
-    "longitude": 9.7898
-  },
-  {
     "location": "4560 Vig",
     "datetime": "2015-10-04 21:30:00.000000",
     "witnesses": 2,
     "latitude": 55.851908,
     "longitude": 11.584586
+  },
+  {
+    "location": "6400 Sønderborg",
+    "datetime": "2015-10-04 21:30:00.000000",
+    "witnesses": 4,
+    "latitude": 54.908919,
+    "longitude": 9.7898
   },
   {
     "location": "4660 Store Heddinge",
@@ -26712,18 +25452,18 @@
     "longitude": 12.457311
   },
   {
-    "location": "9220 Allborg Øst",
-    "datetime": "2016-03-02 16:49:00.000000",
-    "witnesses": 1,
-    "latitude": 57.04426285,
-    "longitude": 9.9756421
-  },
-  {
     "location": "6800 Varde",
     "datetime": "2016-03-02 16:49:00.000000",
     "witnesses": 1,
     "latitude": 55.61767,
     "longitude": 8.481176
+  },
+  {
+    "location": "9220 Allborg Øst",
+    "datetime": "2016-03-02 16:49:00.000000",
+    "witnesses": 1,
+    "latitude": 57.04426285,
+    "longitude": 9.9756421
   },
   {
     "location": "9620 Ålestrup",
@@ -27097,18 +25837,18 @@
     "longitude": 10.475442
   },
   {
-    "location": "2610 Rødovre",
-    "datetime": "2016-08-25 23:50:00.000000",
-    "witnesses": 1,
-    "latitude": 55.68125,
-    "longitude": 12.454729
-  },
-  {
     "location": "8240 Risskov",
     "datetime": "2016-08-25 23:50:00.000000",
     "witnesses": 2,
     "latitude": 56.198107,
     "longitude": 10.230005
+  },
+  {
+    "location": "2610 Rødovre",
+    "datetime": "2016-08-25 23:50:00.000000",
+    "witnesses": 1,
+    "latitude": 55.68125,
+    "longitude": 12.454729
   },
   {
     "location": "Lyngsbæk8400 Ebeltoft",
@@ -27664,18 +26404,18 @@
     "longitude": 8.519205
   },
   {
-    "location": "3100 Hornbæk",
-    "datetime": "2017-07-31 22:55:00.000000",
-    "witnesses": 1,
-    "latitude": 56.087918,
-    "longitude": 12.45878
-  },
-  {
     "location": "4400 Kalundborg",
     "datetime": "2017-07-31 22:55:00.000000",
     "witnesses": 2,
     "latitude": 55.683379,
     "longitude": 11.099362
+  },
+  {
+    "location": "3100 Hornbæk",
+    "datetime": "2017-07-31 22:55:00.000000",
+    "witnesses": 1,
+    "latitude": 56.087918,
+    "longitude": 12.45878
   },
   {
     "location": "2610 Rødovre",
@@ -28833,13 +27573,6 @@
     "longitude": 10.199427
   },
   {
-    "location": "4400 Kalundborg",
-    "datetime": "2019-11-30 06:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.683379,
-    "longitude": 11.099362
-  },
-  {
     "location": "Seden, 5240 Odense NØ",
     "datetime": "2019-11-30 06:00:00.000000",
     "witnesses": 1,
@@ -28847,11 +27580,11 @@
     "longitude": 10.43919795
   },
   {
-    "location": "8800 Viborg",
-    "datetime": "2019-11-30 06:05:00.000000",
-    "witnesses": 2,
-    "latitude": 56.446913,
-    "longitude": 9.405935
+    "location": "4400 Kalundborg",
+    "datetime": "2019-11-30 06:00:00.000000",
+    "witnesses": 1,
+    "latitude": 55.683379,
+    "longitude": 11.099362
   },
   {
     "location": "6705 Esbjerg Ø",
@@ -28859,6 +27592,13 @@
     "witnesses": 1,
     "latitude": 55.482144,
     "longitude": 8.47908
+  },
+  {
+    "location": "8800 Viborg",
+    "datetime": "2019-11-30 06:05:00.000000",
+    "witnesses": 2,
+    "latitude": 56.446913,
+    "longitude": 9.405935
   },
   {
     "location": "4160 Herlufmagle",
@@ -28875,18 +27615,18 @@
     "longitude": 12.1374845
   },
   {
-    "location": "6670 Holsted",
-    "datetime": "2019-11-30 06:15:00.000000",
-    "witnesses": 2,
-    "latitude": 55.505979,
-    "longitude": 8.915118
-  },
-  {
     "location": "6690 Gørding",
     "datetime": "2019-11-30 06:15:00.000000",
     "witnesses": 1,
     "latitude": 55.473424,
     "longitude": 8.799952
+  },
+  {
+    "location": "6670 Holsted",
+    "datetime": "2019-11-30 06:15:00.000000",
+    "witnesses": 2,
+    "latitude": 55.505979,
+    "longitude": 8.915118
   },
   {
     "location": "8883 Gjern",
@@ -28903,13 +27643,6 @@
     "longitude": 10.451351
   },
   {
-    "location": "4593 Eskebjerg",
-    "datetime": "2019-12-31 18:20:00.000000",
-    "witnesses": 3,
-    "latitude": 55.713153,
-    "longitude": 11.305166
-  },
-  {
     "location": "6230 Rødekro",
     "datetime": "2019-12-31 18:20:00.000000",
     "witnesses": 1,
@@ -28917,11 +27650,11 @@
     "longitude": 9.341018
   },
   {
-    "location": "6400 Augustenborg",
-    "datetime": "2019-12-31 18:30:00.000000",
-    "witnesses": 2,
-    "latitude": 54.9230278,
-    "longitude": 9.82497525
+    "location": "4593 Eskebjerg",
+    "datetime": "2019-12-31 18:20:00.000000",
+    "witnesses": 3,
+    "latitude": 55.713153,
+    "longitude": 11.305166
   },
   {
     "location": "6200 Aabenraa",
@@ -28943,6 +27676,13 @@
     "witnesses": 2,
     "latitude": 55.752972,
     "longitude": 9.421055
+  },
+  {
+    "location": "6400 Augustenborg",
+    "datetime": "2019-12-31 18:30:00.000000",
+    "witnesses": 2,
+    "latitude": 54.9230278,
+    "longitude": 9.82497525
   },
   {
     "location": "4000 Roskilde",
@@ -29106,18 +27846,18 @@
     "longitude": 12.195109
   },
   {
-    "location": "5500 Middelfart",
-    "datetime": "2020-03-29 21:45:00.000000",
-    "witnesses": 2,
-    "latitude": 55.50327,
-    "longitude": 9.749465
-  },
-  {
     "location": "6040 Vester Nebel",
     "datetime": "2020-03-29 21:45:00.000000",
     "witnesses": 2,
     "latitude": 55.5716172,
     "longitude": 9.394239
+  },
+  {
+    "location": "5500 Middelfart",
+    "datetime": "2020-03-29 21:45:00.000000",
+    "witnesses": 2,
+    "latitude": 55.50327,
+    "longitude": 9.749465
   },
   {
     "location": "8800 Viborg",
@@ -29225,18 +27965,18 @@
     "longitude": 12.31758
   },
   {
-    "location": "2630 Tåstrup",
-    "datetime": "2020-04-19 22:30:00.000000",
-    "witnesses": 2,
-    "latitude": 55.651892,
-    "longitude": 12.31758
-  },
-  {
     "location": "3400 Hillerød",
     "datetime": "2020-04-19 22:30:00.000000",
     "witnesses": null,
     "latitude": 55.928574,
     "longitude": 12.306391
+  },
+  {
+    "location": "2630 Tåstrup",
+    "datetime": "2020-04-19 22:30:00.000000",
+    "witnesses": 2,
+    "latitude": 55.651892,
+    "longitude": 12.31758
   },
   {
     "location": "6660 Lintrup",
@@ -29918,18 +28658,18 @@
     "longitude": 9.307976
   },
   {
-    "location": "4241 Vemmelev",
-    "datetime": "2021-08-03 05:00:00.000000",
-    "witnesses": 1,
-    "latitude": 55.362655,
-    "longitude": 11.257598
-  },
-  {
     "location": "6650 Brørup",
     "datetime": "2021-08-03 05:00:00.000000",
     "witnesses": 1,
     "latitude": 55.484611,
     "longitude": 9.015548
+  },
+  {
+    "location": "4241 Vemmelev",
+    "datetime": "2021-08-03 05:00:00.000000",
+    "witnesses": 1,
+    "latitude": 55.362655,
+    "longitude": 11.257598
   },
   {
     "location": "4792 Askeby",
@@ -30009,18 +28749,18 @@
     "longitude": 10.699621
   },
   {
-    "location": "2665 Vallensbæk Strand",
-    "datetime": "2021-09-03 04:30:00.000000",
-    "witnesses": 2,
-    "latitude": 55.622107,
-    "longitude": 12.387233
-  },
-  {
     "location": "3300 Frederiksværk",
     "datetime": "2021-09-03 04:30:00.000000",
     "witnesses": 1,
     "latitude": 55.973704,
     "longitude": 12.021056
+  },
+  {
+    "location": "2665 Vallensbæk Strand",
+    "datetime": "2021-09-03 04:30:00.000000",
+    "witnesses": 2,
+    "latitude": 55.622107,
+    "longitude": 12.387233
   },
   {
     "location": "Nr. Vissing8660 Skanderborg",
