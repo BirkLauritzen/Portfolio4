@@ -20,9 +20,21 @@
     margin: auto;              /* Center the map if it's smaller than the viewport */
 }
 
-#marker {
-
-
+#map-container {
+    display: flex;
+    justify-content: center;
 }
+.item {
+    display: flex;
+    justify-content: center;
+}
+
+.leaflet-tekst {
+    display: flex;
+    justify-content: center;
+    width: 46vw;
+    color: #00ff00;
+}
+
 
 

@@ -26,6 +26,6 @@ ufoSightingsArray.forEach(function (sighting) {
 
     // Create a marker for each sighting and add it to the map
     const marker = L.marker([lat, lng], { icon: limeGreenIcon }).addTo(map);
-    marker.bindPopup(`<br>Location: ${sighting.location}<br>Witnesses: ${sighting.witnesses}<br>datetime: ${sighting.datetime}`);
+    marker.bindPopup(`<br>Location: ${sighting.location}<br>datetime: ${sighting.datetime}`);
 });
 
