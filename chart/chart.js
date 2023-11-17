@@ -52,4 +52,10 @@ function createChart(ufoSightings) {
             }
         }
     });
+
+    // Scroll to bottom after chart is created
+    document.querySelector('.graphContainer').scrollIntoView();
+    window.scrollTo(0,document.body.scrollHeight);
 }
+
+
