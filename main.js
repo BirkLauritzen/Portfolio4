@@ -54,7 +54,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 // Load the JSON data
 let data;
-fetch('/ufoObservationer.json')
+fetch('./ufoObservationer.json')
   .then(response => response.json())
   .then(json => data = json);
 
