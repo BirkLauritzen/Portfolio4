@@ -1,43 +1,51 @@
 /* index styles.css */
 
+/* General styles */
 body {
-    background-color: #1a1a1a; /* Dark background color */
-    color: white;            /* Lime green text color */
-    font-family: Arial, sans-serif; /* Optional: sets the default font */
+    background-color: #1a1a1a;
+    color: white;
+    font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
 }
 
+/* Removes underline from links and sets color to inherit which means it will use the color of the parent element */
 #container a {
-    text-decoration: none; /* Removes underline */
-    color: inherit; /* Optional: ensures the link uses the parent's text color */
+    text-decoration: none;
+    color: inherit;
 }
 
+/* Styles for the h1 */
 h1 {
-    text-align: center; /* Center the text */
-    margin-top: 50px;   /* Add some space at the top */
+    text-align: center;
+    margin-top: 50px;
 }
 
+/* Styles for the h2 */
 h2 {
-    margin-top: 50px;   /* Add some space at the top */
+    margin-top: 50px;
 }
 
 .tekst {
-    text-align: left; /* Center the text */
+    text-align: left;
     margin-left: 100px;
     margin-right: 100px;
 }
 
-/* Flying ufo styles */
-
-#flyingImage {
-    position: absolute; /* Position it relative to its nearest positioned ancestor or the viewport */
-    width: 100px;       /* Adjust the size as needed */
-    height: auto;       /* Maintain aspect ratio */
-    z-index: 10;        /* Ensure it's above other elements */
-    /* Initially positioned off-screen or hidden */
+/* Removes bullets from lists */
+ul, ol {
+    list-style-type: none;
 }
 
+/* Flying ufo styles */
+#flyingImage {
+    position: absolute;
+    width: 100px;
+    height: auto;
+    z-index: 10;
+}
+
+/* Container styles */
 #container h1 span {
     color: white; /* Initial color */
     transition: color 0.3s; /* Smooth transition for color change */
@@ -45,74 +53,75 @@ h2 {
 
 /* Navbar styles */
 .navbar {
-    display: flex; /* Use flexbox */
-    justify-content: space-between; /* Space out items */
-    align-items: center; /* Align items vertically */
-    background-color: #333; /* Background color */
-    overflow: hidden; /* Clear floats */
-    padding: 10px 0; /* Padding around links */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    overflow: hidden;
+    padding: 10px 0;
 }
 
 /* Style for all navbar links */
 .navbar a {
-    flex-grow: 1; /* Flex grow to fill the space evenly */
-    text-align: center; /* Center text */
-    color: white; /* Text color */
-    padding: 14px 20px; /* Padding */
-    text-decoration: none; /* No underline */
-    font-size: 17px; /* Font size */
+    flex-grow: 1;
+    text-align: center;
+    color: white;
+    padding: 14px 20px;
+    text-decoration: none;
+    font-size: 17px;
 }
 
-/* Vertical line separator */
+/* Vertical line separator on the left nav link */
 .navbar a:not(:last-child) {
-    border-right: 1px solid #00ff00; /* Right border for separator */
+    border-right: 1px solid #00ff00;
 }
 
 /* Change link color on hover */
 .navbar a:hover {
-    background-color: #00ff00; /* Light background on hover */
-    color: black; /* Text color on hover */
+    background-color: #00ff00;
+    color: black;
 }
 
-/* Responsive layout for smaller screens */
+/* Ensures layout works for smaller screens */
 @media screen and (max-width: 600px) {
     .navbar {
-        flex-direction: column; /* Stack links vertically */
+        flex-direction: column;
     }
     .navbar a:not(:last-child) {
-        border-right: none; /* Remove border in small screens */
+        border-right: none;
     }
 }
 
-/* Styles for the button */
+/* Styles for the button to make it more appealing */
 #myButton {
-    display: block; /* Make the button a block element */
-    margin: 20px auto; /* Center the button horizontally and add margin */
-    padding: 10px 20px; /* Add padding inside the button */
-    font-size: 18px; /* Increase font size */
-    background-color: #4CAF50; /* Set a background color */
-    color: white; /* Set text color */
-    border: none; /* Remove border */
-    border-radius: 5px; /* Add rounded corners */
-    cursor: pointer; /* Change cursor to pointer */
-    transition: background-color 0.3s; /* Smooth transition for hover effect */
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
 }
 
+/* Change background color on hover */
 #myButton:hover {
-    background-color: #45a049; /* Darken button color on hover */
+    background-color: #45a049;
 }
 
 /* Styles for the notes section */
 #notesContainer {
-    display: none; /* Initially hide the container */
-    margin: 20px auto; /* Center the container and add margin */
-    padding: 15px; /* Add padding */
-    max-width: 600px; /* Set a maximum width */
-    background-color: #000; /* Black background color */
-    color: #fff; /* White text color */
-    border: 1px solid #444; /* Add a darker border */
-    border-radius: 5px; /* Rounded corners */
-    font-size: 16px; /* Set font size */
-    box-shadow: 0 2px 4px rgba(0,0,0,0.5); /* Add a darker shadow */
-    white-space: pre-wrap; /* Ensure proper line breaks and white space */
+    display: none;
+    margin: 20px auto;
+    padding: 15px;
+    max-width: 600px;
+    background-color: #000;
+    color: #fff;
+    border: 1px solid #444;
+    border-radius: 5px;
+    font-size: 16px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.5);
+    white-space: pre-wrap;
 }

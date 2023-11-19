@@ -1,23 +1,25 @@
 /* index styles.css */
 @import url("../styles.css");
 
+/* This changes the color of the link when the mouse hovers over it */
 #container h1 span {
-    color: #00ff00; /* Initial color */
-    transition: color 0.3s; /* Smooth transition for color change */
+    color: #00ff00;
+    transition: color 0.3s;
 }
 
 
 /* Leaflet styles */
 
+/* This is the container for the map */
 #map {
-    width: 100vw;              /* Set width to 100% of the viewport width */
-    height: 100vw;             /* Set height to 100% of the viewport height */
-    max-width: 800px;          /* Maximum width limit */
-    max-height: 500px;         /* Maximum height limit */
-    padding: 30px;             /* Padding as specified */
-    border-radius: 20px;       /* Border radius as specified */
-    box-sizing: border-box;    /* Include padding in the width and height calculations */
-    margin: auto;              /* Center the map if it's smaller than the viewport */
+    width: 100vw;
+    height: 100vw;
+    max-width: 800px;
+    max-height: 500px;
+    padding: 30px;
+    border-radius: 20px;
+    box-sizing: border-box;
+    margin: auto;
 }
 
 #map-container {

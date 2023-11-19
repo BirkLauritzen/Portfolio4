@@ -5,14 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
     <title>UFO sightings</title>
-    <!-- Link to external CSS file -->
+    <!-- Link to CSS file -->
     <link rel="stylesheet" href="chart.css">
+    <!-- Link to chart.js file -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js@3.9.1/dist/chart.min.js"></script>
 
 </head>
 <body>
 
+<!-- Page header -->
 <div id="container">
     <a href="../index.html">
         <h1>
@@ -22,21 +24,19 @@
     <img id="flyingImage" src="../pictures/ufo.png" alt="Flying Image" style="display: none;">
 </div>
 
-<!-- Navigation Bar -->
+<!-- Navigation bar -->
 <div class="navbar">
-    <a href="../leaflet/leaflet.html">Graf over ufo observationer i Danmark</a>
+    <a href="../leaflet/leaflet.html">Kort over ufo observationer i Danmark</a>
     <a href="chart.html">Graf over hvor mange ufoer der bliver set hvert år</a>
 </div>
 
+<!-- Page chart -->
 <div class="graphContainer">
     <canvas id="chart"></canvas>
 </div>
 
 
-
-<!-- Your HTML content goes here -->
-
-<!-- Link to external JavaScript file -->
+<!-- Links to JavaScript files -->
 <script src="../ufo-leaflet.js"></script>
 <script src="chart.js"></script>
 </body>
