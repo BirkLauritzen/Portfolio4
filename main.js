@@ -48,3 +48,32 @@ document.addEventListener('DOMContentLoaded', function () {
     setTimeout(animateUFO, 5000);
 });
 
+// Load the JSON data
+let data;
+fetch('/ufoObservationer.json')
+  .then(response => response.json())
+  .then(json => data = json);
+
+// Function to generate a random number between 2511 and 4450
+function getRandomId() {
+  return Math.floor(Math.random() * (4450 - 2511 + 1)) + 2511;
+}
+
+// Function to get a note by id
+function getNoteById(id) {
+  for (let obj of data) {
+    if (obj.id === id) {
+      return obj.notes;
+    }
+  }
+  // If no matching id was found, generate a new random id and try again
+  return getNoteById(getRandomId());
+}
+
+// Add event listener to button
+document.querySelector('button').addEventListener('click', () => {
+  // Get a random note
+  const note = getNoteById(getRandomId());
+  // Append the note to the notes section
+  document.querySelector('.notes').textContent += note;
+});
