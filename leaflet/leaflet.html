@@ -4,17 +4,23 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>UFO sightings</title>
-    <!-- Link to external CSS file -->
+    <!-- Link to CSS file -->
     <link rel="stylesheet" href="leaflet.css">
+    <!-- Link to leaflet files -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
           integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
           crossorigin=""/>
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
             integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
             crossorigin=""></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.Default.css"/>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.js"></script>
+
 </head>
 <body>
 
+<!-- Page header -->
 <div id="container">
     <a href="../index.html">
         <h1>
@@ -24,32 +30,33 @@
     <img id="flyingImage" src="../pictures/ufo.png" alt="Flying Image" style="display: none;">
 </div>
 
-<!-- Navigation Bar -->
+<!-- Navigation bar -->
 <div class="navbar">
     <a href="leaflet.html">Kort over ufo observationer i Danmark</a>
     <a href="../chart/chart.html">Graf over hvor mange ufoer der bliver set hvert år</a>
 </div>
 
-
+<!-- Leaflet map -->
 <div class="map-container">
 
     <div class = "item">
         <div id="map"></div>
     </div>
+
+    <!-- Leaflet map info -->
     <div class="item">
         <div class="leaflet-tekst">
-        <p> Her er alle Ufo observationer i Danmark fra 1948 og frem til 2022, så du kan finde ud af hvor der størst sansynlighed for du kan se en ufo i Danmark.
+        <p> Her er alle Ufo observationer i Danmark fra 1948 og frem til 2022, så du kan finde ud af hvor der størst sandsynlighed for du kan se en ufo i Danmark.
             <br>
-            Når du klikker på alienhovederne kan du se hvilken dato observationen er sket og hvilket postnummer observationen er sket på. Kortet bliver opdateret løbende.
+            Når du klikker på alenhovederne, kan du se hvilken dato observationen er sket, og hvilket postnummer observationen er sket på. Kortet bliver opdateret løbende og mindst en gang om året.
         </p>
-
     </div>
 </div>
 </div>
 
 
 
-<!-- Link to external JavaScript file -->
+<!-- Links to JavaScript files -->
 <script src="../ufo-leaflet.js"></script>
 <script src="leaflet.js"></script>
 </body>

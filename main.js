@@ -1,10 +1,12 @@
 // main.js
 
+// Adds the animation to the text and the ufo image
 document.addEventListener('DOMContentLoaded', function () {
     const container = document.querySelector('#container');
     const flyingImage = document.querySelector('#flyingImage');
     const letters = document.querySelectorAll('#container h1 span');
 
+    // Function that checks if the ufo and the letter are colliding
     function checkCollision(ufoRect, letterRect) {
         return !(ufoRect.right < letterRect.left ||
             ufoRect.left > letterRect.right ||
@@ -12,6 +14,7 @@ document.addEventListener('DOMContentLoaded', function () {
             ufoRect.top > letterRect.bottom);
     }
 
+    // Function that animates the text
     function animateUFO() {
         let containerRect = container.getBoundingClientRect();
         let startX = -flyingImage.offsetWidth;
@@ -21,6 +24,7 @@ document.addEventListener('DOMContentLoaded', function () {
         flyingImage.style.top = '0px';
         flyingImage.style.display = 'block';
 
+        // Function that updates the position of the ufo
         function updatePosition() {
             if (currentX < endX) {
                 currentX += 2;
