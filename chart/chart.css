@@ -6,6 +6,13 @@
     transition: color 0.3s; /* Smooth transition for color change */
 }
 
+.graphContainer {
+    width: 50vw;
+    margin: auto;
+}
 
+.graphContainer canvas {
+    width: 100%;
+    height: auto;
+}
 
-/* Chart styles */
