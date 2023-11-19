@@ -71,9 +71,16 @@ function getNoteById(id) {
 }
 
 // Add event listener to button
-document.querySelector('button').addEventListener('click', () => {
-  // Get a random note
-  const note = getNoteById(getRandomId());
-  // Append the note to the notes section
-  document.querySelector('.notes').textContent += note;
+document.querySelector('#myButton').addEventListener('click', () => {
+    // Get a random note
+    const note = getNoteById(getRandomId());
+
+    if (note) {
+        // Make the notes container visible
+        const notesContainer = document.querySelector('#notesContainer');
+        notesContainer.style.display = 'block'; // or 'flex', 'inline-block', etc., depending on your layout
+
+        // Set the note text
+        notesContainer.textContent = note;
+    }
 });

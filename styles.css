@@ -84,3 +84,35 @@ h2 {
     }
 }
 
+/* Styles for the button */
+#myButton {
+    display: block; /* Make the button a block element */
+    margin: 20px auto; /* Center the button horizontally and add margin */
+    padding: 10px 20px; /* Add padding inside the button */
+    font-size: 18px; /* Increase font size */
+    background-color: #4CAF50; /* Set a background color */
+    color: white; /* Set text color */
+    border: none; /* Remove border */
+    border-radius: 5px; /* Add rounded corners */
+    cursor: pointer; /* Change cursor to pointer */
+    transition: background-color 0.3s; /* Smooth transition for hover effect */
+}
+
+#myButton:hover {
+    background-color: #45a049; /* Darken button color on hover */
+}
+
+/* Styles for the notes section */
+#notesContainer {
+    display: none; /* Initially hide the container */
+    margin: 20px auto; /* Center the container and add margin */
+    padding: 15px; /* Add padding */
+    max-width: 600px; /* Set a maximum width */
+    background-color: #000; /* Black background color */
+    color: #fff; /* White text color */
+    border: 1px solid #444; /* Add a darker border */
+    border-radius: 5px; /* Rounded corners */
+    font-size: 16px; /* Set font size */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.5); /* Add a darker shadow */
+    white-space: pre-wrap; /* Ensure proper line breaks and white space */
+}
